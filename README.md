@@ -7,6 +7,7 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
   - [Distributions](#distributions)
   - [CLI](#cli)
   - [Configuration](#configuration)
+  - [Server](#server)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -25,3 +26,6 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
 
 ### Configuration
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard
+
+### Server
+* [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
