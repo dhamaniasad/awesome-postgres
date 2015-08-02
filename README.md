@@ -6,9 +6,10 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
   - [GUI](#gui)
   - [Distributions](#distributions)
   - [CLI](#cli)
-  - [Configuration](#configuration)
   - [Server](#server)
   - [Extensions](#extensions)
+  - [Optimization](#optimization)
+  - [Utilities](#utilities)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -25,11 +26,15 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 
-### Configuration
-* [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard
-
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
 
 ### Extensions
 * [PGStorm](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
+
+### Optimization
+* [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
+* [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard
+
+### Utilities
+* [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
