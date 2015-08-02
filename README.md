@@ -5,6 +5,7 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
   - [Backups](#backups)
   - [GUI](#gui)
   - [Distributions](#distributions)
+  - [CLI](#cli)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -13,6 +14,10 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
 ### GUI
 * [pgAdmin](http://pgadmin.org/) - Postgres Adminisitration and Management GUI
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
+* [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go
 
 ### Distributions
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on the Mac
+
+### CLI
+* [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
