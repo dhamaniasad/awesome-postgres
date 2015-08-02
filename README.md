@@ -8,6 +8,7 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
   - [CLI](#cli)
   - [Configuration](#configuration)
   - [Server](#server)
+  - [Extensions](#extensions)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -29,3 +30,6 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
 
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
+
+### Extensions
+* [PGStorm](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
