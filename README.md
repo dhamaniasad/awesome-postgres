@@ -6,6 +6,7 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
   - [GUI](#gui)
   - [Distributions](#distributions)
   - [CLI](#cli)
+  - [Configuration](#configuration)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -21,3 +22,6 @@ A curated list of awesome MySQL software, libraries, tools and resources, inspir
 
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+
+### Configuration
+* [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard
