@@ -1,5 +1,5 @@
 # awesome-postgres
-A curated list of awesome MySQL software, libraries, tools and resources, inspired by awesome-mysql
+A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
 - [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres)
   - [Backups](#backups)
