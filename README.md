@@ -10,6 +10,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Extensions](#extensions)
   - [Optimization](#optimization)
   - [Utilities](#utilities)
+  - [Tutorials](#tutorials)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -38,3 +39,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Utilities
 * [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
+
+### Tutorials
+* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
