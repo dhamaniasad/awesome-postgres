@@ -41,4 +41,4 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
 
 ### Tutorials
-* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/)
+* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
