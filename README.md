@@ -48,3 +48,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
 * [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres.
 * [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks. 
+
+### Newsletters
+
+* [Postgres Weekly](http://www.postgresweekly.com) - A weekly newsletter that contains articles, news, and repos relevant to Postgres
