@@ -11,6 +11,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Optimization](#optimization)
   - [Utilities](#utilities)
   - [Tutorials](#tutorials)
+  - [Newsletters](#newsletters)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -47,3 +48,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
 * [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres.
+
+
+### Newsletters
+
+* [Postgres Weekly](http://www.postgresweekly.com) - A weekly newsletter that contains articles, news, and repos relevant to Postgres
