@@ -51,6 +51,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres.
 
 ### Blogs
+* [Planet PostgreSQL](https://planet.postgresql.org/) - A blog aggregation service for PostgreSQL.
 * [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks. 
 
 ### Newsletters
