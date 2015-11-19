@@ -47,6 +47,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 * [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
 
+### Language bindings
+* [rust-postgresql](https://github.com/sfackler/rust-postgres) - [Rust](http://www.rust-lang.org/)
+* [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm) - [Perl](https://www.perl.org/)
+* [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/) - [Java](https://www.java.com/)
+
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
 * [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres.
