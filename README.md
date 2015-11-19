@@ -7,6 +7,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Distributions](#distributions)
   - [CLI](#cli)
   - [Server](#server)
+  - [Monitoring](#monitoring)
   - [Extensions](#extensions)
   - [Optimization](#optimization)
   - [Utilities](#utilities)
@@ -32,6 +33,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
+
+### Monitoring
+* [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
 
 ### Extensions
 * [PGStorm](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
