@@ -48,6 +48,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 * [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
 * [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring
+* [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
