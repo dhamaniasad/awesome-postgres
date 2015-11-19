@@ -3,7 +3,7 @@ This list [accepts and encourages pull requests](https://github.com/dhamaniasad/
 # Contribution Guidelines
 
 - **To add to the list:** Submit a pull request to [README.md](https://github.com/dhamaniasad/awesome-postgres/blob/master/README.md), optionally add comment if you wish to elaborate/explain.
-- **To edit an item:** Submit a pull request to [READ.md](https://github.com/dhamaniasad/awesome-postgres/blob/master/README.md), add comment explaining the reasoning behind the change.
+- **To edit an item:** Submit a pull request to [README.md](https://github.com/dhamaniasad/awesome-postgres/blob/master/README.md), add comment explaining the reasoning behind the change.
 - **To remove from the list:** Open an issue
 
 You may add, edit, or request to remove:
