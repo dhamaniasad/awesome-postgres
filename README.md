@@ -28,6 +28,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+* [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
