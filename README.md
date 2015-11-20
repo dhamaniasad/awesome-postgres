@@ -40,6 +40,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Extensions
 * [PGStorm](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
 * [pg_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
+* [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
