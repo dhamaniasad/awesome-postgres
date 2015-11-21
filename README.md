@@ -18,6 +18,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
+* [AutoPostgreSQLBackup](https://sourceforge.net/projects/autopgsqlbackup/) - simple bash script for backup, at least included in Debian/Ubuntu
 
 ### GUI
 * [pgAdmin](http://pgadmin.org/) - Postgres Adminisitration and Management GUI
