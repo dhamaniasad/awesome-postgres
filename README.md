@@ -37,6 +37,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Monitoring
 * [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
+* [Munin Monitoring PostgreSQL plugins](https://github.com/munin-monitoring/contrib/tree/master/plugins/postgresql) - munin comes with a set of PostgreSQL plugins "out-of-the-box"
 
 ### Extensions
 * [PGStorm](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
