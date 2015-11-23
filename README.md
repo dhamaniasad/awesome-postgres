@@ -38,7 +38,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
 
 ### Extensions
-* [PGStorm](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
+* [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
 * [pg_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
 
