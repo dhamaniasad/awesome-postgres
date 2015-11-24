@@ -10,6 +10,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Extensions](#extensions)
   - [Optimization](#optimization)
   - [Utilities](#utilities)
+  - [Language bindings](#language-bindings)
   - [Tutorials](#tutorials)
   - [Blogs](#blogs)
   - [Newsletters](#newsletters)
