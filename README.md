@@ -19,6 +19,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
+* [AutoPostgreSQLBackup](https://sourceforge.net/projects/autopgsqlbackup/) - simple bash script for backup, at least included in Debian/Ubuntu
 
 ### GUI
 * [pgAdmin](http://pgadmin.org/) - Postgres Administration and Management GUI
@@ -38,6 +39,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Monitoring
 * [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
+* [Munin Monitoring PostgreSQL plugins](https://github.com/munin-monitoring/contrib/tree/master/plugins/postgresql) - munin comes with a set of PostgreSQL plugins "out-of-the-box"
 
 ### Extensions
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
