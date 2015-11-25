@@ -11,6 +11,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Extensions](#extensions)
   - [Optimization](#optimization)
   - [Utilities](#utilities)
+  - [Language bindings](#language-bindings)
   - [Tutorials](#tutorials)
   - [Blogs](#blogs)
   - [Newsletters](#newsletters)
@@ -56,6 +57,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
+
+### Language bindings
+* [rust-postgresql](https://github.com/sfackler/rust-postgres) - [Rust](http://www.rust-lang.org/)
+* [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm) - [Perl](https://www.perl.org/)
+* [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/) - [Java](https://www.java.com/)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
