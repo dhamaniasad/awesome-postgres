@@ -53,11 +53,12 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics on your PostgreSQL database
-* [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
+* [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data
 * [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
 * [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
+* [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
 
 ### Language bindings
 * [rust-postgresql](https://github.com/sfackler/rust-postgres) - [Rust](http://www.rust-lang.org/)
@@ -66,13 +67,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
-* [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres.
+* [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres
 * [Backup and recover a Postgres DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - A tutorial about setting up continuous archiving in PostgreSQL using wal-e
 * [PostgreSQL Exercises](http://pgexercises.com/) - A site  to make it easy to learn PostgreSQL by doing
 
 ### Blogs
-* [Planet PostgreSQL](https://planet.postgresql.org/) - A blog aggregation service for PostgreSQL.
-* [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks. 
+* [Planet PostgreSQL](https://planet.postgresql.org/) - A blog aggregation service for PostgreSQL
+* [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks.
 
 ### Newsletters
 
