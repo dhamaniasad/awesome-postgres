@@ -59,6 +59,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
 * [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
+* [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends
 
 ### Language bindings
 * [rust-postgresql](https://github.com/sfackler/rust-postgres) - [Rust](http://www.rust-lang.org/)
