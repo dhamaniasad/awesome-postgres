@@ -15,8 +15,8 @@ You may add, edit, or request to remove:
 This is an attempt to make a curated list of high-quality, maintained, useful PostgreSQL/related software.
 
 - Submitting software:
-  - Must be free and open source. Must have an acknowledged open source license. I'm not a lawyer, so I'll go with the
-    FSF listings. Propriety, trial, shareware, halfway open sourced etc., will not be accepted, and will be removed.
+  - Must either be free and open source, or have a note which explicitly states that the software is commercial. `(Commercial Software)` will do. Must have an acknowledged open source license to be exempt from the `(Commercial Software)` note requirement. I'm not a lawyer, so I'll go with the
+    FSF listings. 
   - Must be reasonably recognized and adopted. Please do not add your newly created untested scripts.
   - The code must have been active in some production environment and must be in a reasonably GA quality.
   - Code must not be abandoned/discontinued.
