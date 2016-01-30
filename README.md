@@ -67,6 +67,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [rust-postgresql](https://github.com/sfackler/rust-postgres) - [Rust](http://www.rust-lang.org/)
 * [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm) - [Perl](https://www.perl.org/)
 * [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/) - [Java](https://www.java.com/)
+* [node-postgres](https://github.com/brianc/node-postgres) - [Node](https://nodejs.org/en/)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
