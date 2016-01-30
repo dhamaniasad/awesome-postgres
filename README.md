@@ -25,6 +25,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for OS X (Commercial Software)
+* [PSequel](http://www.psequel.com/) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly (Commercial Software)
 
 ### Distributions
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on the Mac
