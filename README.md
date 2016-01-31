@@ -1,7 +1,7 @@
-# awesome-postgres
+# Awesome Postgres
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
-- [Awesome-Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres)
+- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres)
   - [Backups](#backups)
   - [GUI](#gui)
   - [Distributions](#distributions)
@@ -65,10 +65,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
 
 ### Language bindings
-* [rust-postgresql](https://github.com/sfackler/rust-postgres) - [Rust](http://www.rust-lang.org/)
-* [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm) - [Perl](https://www.perl.org/)
-* [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/) - [Java](https://www.java.com/)
-* [node-postgres](https://github.com/brianc/node-postgres) - [Node](https://nodejs.org/en/)
+* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
+* Perl: [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm)
+* Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+* Node: [node-postgres](https://github.com/brianc/node-postgres)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
