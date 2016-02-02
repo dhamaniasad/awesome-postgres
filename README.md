@@ -15,6 +15,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Tutorials](#tutorials)
   - [Blogs](#blogs)
   - [Newsletters](#newsletters)
+  - [PaaS (Hosted Postgres)](#paas)
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
