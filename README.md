@@ -90,7 +90,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * Node: [node-postgres](https://github.com/brianc/node-postgres)
-* PHP: [Pomm](http://www.pomm-project.org)
+* PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Elixir: [postgrex](https://github.com/ericmj/postgrex)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
