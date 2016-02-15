@@ -80,6 +80,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * Node: [node-postgres](https://github.com/brianc/node-postgres)
 * PHP: [Pomm](http://www.pomm-project.org)
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
+* Elixir: [postgrex](https://github.com/ericmj/postgrex)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
