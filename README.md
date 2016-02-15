@@ -44,10 +44,12 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Pome](https://github.com/rach/pome) - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database
 
 ### Extensions
+* [PGXN](http://pgxn.org/) - Postgres Extension Network
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
 * [pg_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
 * [pg_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
+* [pgTAP](http://pgtap.org/) - Database testing framework for Postgres
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
