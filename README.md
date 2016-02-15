@@ -71,6 +71,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * Perl: [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * Node: [node-postgres](https://github.com/brianc/node-postgres)
+* Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
