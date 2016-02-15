@@ -77,6 +77,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one
+* [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL
 
 ### Language bindings
 * Go: [pgx](https://github.com/jackc/pgx)
