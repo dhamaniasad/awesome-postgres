@@ -67,6 +67,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
 
 ### Language bindings
+* Go: [pgx](https://github.com/jackc/pgx)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * Perl: [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
