@@ -24,8 +24,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### GUI
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software)
 * [pgAdmin](http://pgadmin.org/) - Postgres Administration and Management GUI
-* [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
+* [pgModeler](http://pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go
+* [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for OS X (Commercial Software)
 * [PSequel](http://www.psequel.com/) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly (Commercial Software)
 
