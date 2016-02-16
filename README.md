@@ -65,6 +65,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
+* [doctrine-postgre-util](https://github.com/code-community/doctrine-postgre-util) - This aims to facilitate the use of the Doctrine with PostgreSQL
 
 ### Language bindings
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
