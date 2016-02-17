@@ -70,7 +70,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Language bindings
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
-* Perl: [DBD-Pg](http://search.cpan.org/~rudy/DBD-Pg/Pg.pm)
+* Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * Node: [node-postgres](https://github.com/brianc/node-postgres)
 * PHP: [Pomm](http://www.pomm-project.org)
