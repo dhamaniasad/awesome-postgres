@@ -73,6 +73,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one
 
 ### Language bindings
+* Go: [pgx](https://github.com/jackc/pgx)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
