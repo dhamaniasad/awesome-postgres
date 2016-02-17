@@ -47,7 +47,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
 * [pg_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
-* [pg_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
+* [pg_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
+* [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) MySQL foreign data wrapper for PostgreSQL.
+* [pg_tap](http://pgtap.org/) TAP unit testing suite for Postgresql database schemas.
+* [pguri](https://github.com/petere/pguri) URI type to validate and sanitize URLs.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
