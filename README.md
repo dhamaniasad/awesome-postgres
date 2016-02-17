@@ -47,6 +47,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Monitoring
 * [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
 * [Pome](https://github.com/rach/pome) - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database
+* [pg_view](https://github.com/zalando/pg_view) - An open-source command-line tool that shows global system stats, per-partition information, memory stats and other information
 
 ### Extensions
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
