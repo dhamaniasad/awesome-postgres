@@ -17,6 +17,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Newsletters](#newsletters)
   - [PaaS (Hosted Postgres)](#paas)
 
+###High-Availability
+* [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
+  
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
