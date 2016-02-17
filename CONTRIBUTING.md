@@ -31,11 +31,12 @@ This is an attempt to make a curated list of high-quality, maintained, useful Po
 
 ### Request guidelines
 
-- Make an individual pull request for each suggestion.
+- Make an individual pull request for each suggestion
 - Use the following format: `[item](link) - description.`
 - Each item should be limited to one link
+- Include a link to the item in the description of your pull request
 - The link should be the name of the package/project/library/resource etc.
-- Avoid superlatives or FUD and otherwise just stick to a reasonable description.
+- Avoid superlatives or FUD and otherwise just stick to a reasonable description
 - Do not capitalize description (i.e. avoid "The Tool to End All Tools")
 - English only
 
