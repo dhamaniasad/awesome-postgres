@@ -25,7 +25,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
 
 ### GUI
-* [DataGrip](https://www.jetbrains.com/datagrip/) - An IDE with advanced tool sets and good cross-platform experience
+* [DataGrip](https://www.jetbrains.com/datagrip/) - An IDE with advanced tool sets and good cross-platform experience (Commercial Software)
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software)
 * [pgAdmin](http://pgadmin.org/) - Postgres Administration and Management GUI
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
