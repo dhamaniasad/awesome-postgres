@@ -46,6 +46,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Monitoring
 * [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
+* [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - A comprehensive PostgreSQL monitoring module for Zabbix
 * [Pome](https://github.com/rach/pome) - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database
 
 ### Extensions
