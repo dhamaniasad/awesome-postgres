@@ -93,6 +93,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Planet PostgreSQL](http://planet.postgresql.org/) - A blog aggregation service for PostgreSQL
 * [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks
 
+### Articles
+
+* [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+
 ### Newsletters
 
 * [Postgres Weekly](http://postgresweekly.com/) - A weekly newsletter that contains articles, news, and repos relevant to Postgres
