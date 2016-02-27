@@ -92,6 +92,17 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Blogs
 * [Planet PostgreSQL](http://planet.postgresql.org/) - A blog aggregation service for PostgreSQL
 * [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks
+* [select * from depesz;](http://www.depesz.com/tag/postgresql/)
+* [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
+* [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
+* [Michael Paquier's blog](http://michael.otacoo.com/)
+* [Magnus Hagander's blog](http://blog.hagander.net/tags/postgresql/)
+* [Tomas Vondra's blog](http://blog.pgaddict.com/)
+* [Dimitri Fontaine's blog](http://tapoueh.org/tags/postgresql/)
+* [2ndQuadrant's blog](http://blog.2ndquadrant.com/)
+* [Pavel Stehule's blog](http://okbob.blogspot.ru/)
+* [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog
+* [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL/)
 
 ### Newsletters
 
