@@ -89,4 +89,4 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### PaaS
 *(Postgres as a Service)*
 * [ElephantSQL](http://www.elephantsql.com) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
-* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. 
+* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
