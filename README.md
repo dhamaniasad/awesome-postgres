@@ -27,6 +27,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### GUI
 * [DataGrip](https://www.jetbrains.com/datagrip/) - An IDE with advanced tool sets and good cross-platform experience (Commercial Software)
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software)
+* [DBeaver](http://dbeaver.jkiss.org) - Universal Database Manager with excellent support for Postgres
 * [pgAdmin](http://pgadmin.org/) - Postgres Administration and Management GUI
 * [pgModeler](http://pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go
