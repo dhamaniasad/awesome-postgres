@@ -34,6 +34,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for OS X (Commercial Software)
 * [PSequel](http://www.psequel.com/) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly (Commercial Software)
 * [SQL Tabs](http://www.sqltabs.com/) - A Cross Platform Desktop Client for Postgres written in JS
+* [SQLPro for Postgres](http://macpostgresclient.com/) - A simple, powerful Postgres manager for Mac OS X (Commercial Software)
 
 ### Distributions
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on the Mac
