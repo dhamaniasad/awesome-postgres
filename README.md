@@ -60,6 +60,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
 * [pg_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
 * [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
+* [cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
