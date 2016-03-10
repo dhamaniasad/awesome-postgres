@@ -64,6 +64,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard
+* [pgtune](http://pgtune.leopard.in.ua/) - Online version of PostgreSQL configuration wizard
 
 ### Utilities
 * [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
