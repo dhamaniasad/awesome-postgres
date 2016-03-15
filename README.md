@@ -2,6 +2,7 @@
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
 - [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres)
+  - [High-Availability](#high-availability)
   - [Backups](#backups)
   - [GUI](#gui)
   - [Distributions](#distributions)
@@ -14,10 +15,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Language bindings](#language-bindings)
   - [Tutorials](#tutorials)
   - [Blogs](#blogs)
+  - [Articles](#articles)
   - [Newsletters](#newsletters)
   - [PaaS (Hosted Postgres)](#paas)
 
-###High-Availability
+### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers. 
 
