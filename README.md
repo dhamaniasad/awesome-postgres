@@ -82,6 +82,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
 * [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
+* [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
 * [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends
