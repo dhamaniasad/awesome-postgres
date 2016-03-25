@@ -114,6 +114,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [select * from depesz;](http://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog
 * [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
 * [Michael Paquier's blog](http://michael.otacoo.com/)
+* [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
 
 ### Articles
 
