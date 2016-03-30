@@ -102,6 +102,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * Elixir: [postgrex](https://github.com/ericmj/postgrex)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
+* Elixir: [postgrex](https://github.com/ericmj/postgrex)
 
 ### Tutorials
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
