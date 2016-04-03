@@ -21,7 +21,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
-* [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers. 
+* [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -55,19 +55,19 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
 
 ### Monitoring
-* [Check_postgres](https://github.com/bucardo/check_postgres) - Nagios check_postgres plugin for checking status of PostgreSQL databases
+* [Check\_postgres](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - A comprehensive PostgreSQL monitoring module for Zabbix
 * [Pome](https://github.com/rach/pome) - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database
-* [pg_view](https://github.com/zalando/pg_view) - An open-source command-line tool that shows global system stats, per-partition information, memory stats and other information
+* [pg\_view](https://github.com/zalando/pg_view) - An open-source command-line tool that shows global system stats, per-partition information, memory stats and other information
 
 ### Extensions
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
-* [pg_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
+* [pg\_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
-* [pg_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
+* [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
 * [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
-* [cstore_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
-* [pg_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
+* [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
+* [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
@@ -80,7 +80,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics on your PostgreSQL database
 * [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data
 * [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
-* [pg_activity](https://github.com/julmon/pg_activity) - pg_activity is a top like application for PostgreSQL server activity monitoring
+* [pg\_activity](https://github.com/julmon/pg_activity) - pg\_activity is a top like application for PostgreSQL server activity monitoring
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
