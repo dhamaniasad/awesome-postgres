@@ -90,6 +90,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - A command line tool to interact with the PostgreSQL Extension Network
+* [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database.
 
 ### Language bindings
 * Go: [pgx](https://github.com/jackc/pgx)
