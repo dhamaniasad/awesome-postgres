@@ -18,6 +18,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
   - [Articles](#articles)
   - [Newsletters](#newsletters)
   - [PaaS (Hosted Postgres)](#paas)
+  - [Queries](#queries)
 
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
@@ -133,3 +134,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud Postgres server in minutes, from $20 a month. Backups, monitoring, patches, and 24/7 tech support all included.
 * [ElephantSQL](http://www.elephantsql.com) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+
+### Queries
+* [Awesome Postgres Queries](http://www.github.com/Dowwie/awesome_postgres_queries) A SQL collective for the Postgresql community
+
