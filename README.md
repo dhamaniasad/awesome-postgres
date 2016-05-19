@@ -21,7 +21,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
-* [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
+* [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
@@ -90,7 +90,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - A command line tool to interact with the PostgreSQL Extension Network
-* [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database.
+* [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database
+* [pgsync](https://github.com/ankane/pgsync?utm_source=postgresweekly) - A tool to sync Postgres data to your local machine
 
 ### Language bindings
 * Go: [pgx](https://github.com/jackc/pgx)
@@ -130,6 +131,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### PaaS
 *(Postgres as a Service)*
-* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud Postgres server in minutes, from $20 a month. Backups, monitoring, patches, and 24/7 tech support all included.
-* [ElephantSQL](http://www.elephantsql.com) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
-* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud Postgres server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included
+* [ElephantSQL](http://www.elephantsql.com) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each
+* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support
