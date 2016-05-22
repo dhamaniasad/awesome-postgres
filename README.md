@@ -91,7 +91,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - A command line tool to interact with the PostgreSQL Extension Network
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database
-* [pgsync](https://github.com/ankane/pgsync?utm_source=postgresweekly) - A tool to sync Postgres data to your local machine
+* [pgsync](https://github.com/ankane/pgsync) - A tool to sync Postgres data to your local machine
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections
 
 ### Language bindings
