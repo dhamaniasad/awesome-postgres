@@ -22,6 +22,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers
+* [Slony-I](http://slony.info) - A "master to multiple slaves" replication system with cascading and failover
 
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
