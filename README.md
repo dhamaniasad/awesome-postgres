@@ -73,6 +73,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
 * [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
+* [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
