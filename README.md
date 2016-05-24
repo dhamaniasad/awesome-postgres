@@ -27,6 +27,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Backups
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
+* [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL
 
 ### GUI
 * [Adminer](https://www.adminer.org/) – Full-featured database management tool written in PHP
