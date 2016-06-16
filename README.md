@@ -117,6 +117,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres
 * [Backup and recover a Postgres DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - A tutorial about setting up continuous archiving in PostgreSQL using wal-e
 * [PostgreSQL Exercises](https://pgexercises.com/) - A site  to make it easy to learn PostgreSQL by doing
+* [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket
 
 ### Blogs
 * [Planet PostgreSQL](http://planet.postgresql.org/) - A blog aggregation service for PostgreSQL
