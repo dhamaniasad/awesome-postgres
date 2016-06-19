@@ -74,6 +74,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
 * [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
+* [pglogical](https://github.com/2ndQuadrant/pglogical) - An extension that provides logical streaming replication
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
