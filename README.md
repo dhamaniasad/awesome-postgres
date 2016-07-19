@@ -99,6 +99,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database
 * [pgsync](https://github.com/ankane/pgsync) - A tool to sync Postgres data to your local machine
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections
+* [ora2pg](http://ora2pg.darold.net) - a Perl module to export an Oracle database schema to a PostgreSQL compatible schema
 
 ### Language bindings
 * Go: [pgx](https://github.com/jackc/pgx)
