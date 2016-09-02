@@ -109,7 +109,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * Node: [node-postgres](https://github.com/brianc/node-postgres)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
-* Elixir: [postgrex](https://github.com/ericmj/postgrex)
+* Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 
@@ -132,7 +132,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Articles
 
-* [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+* [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 
 ### Newsletters
 
