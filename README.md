@@ -46,7 +46,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PSequel](http://www.psequel.com/) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly (Commercial Software)
 * [SQL Tabs](http://www.sqltabs.com/) - A Cross Platform Desktop Client for Postgres written in JS
 * [SQLPro for Postgres](http://macpostgresclient.com/) - A simple, powerful Postgres manager for Mac OS X (Commercial Software)
-* [Wagon](https://www.wagonhq.com/) - Wagon is a modern SQL editor (Commercial Software)
 * [Warp](http://warp.one/) - OS X desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software)
 
 ### Distributions
