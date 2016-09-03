@@ -41,15 +41,15 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgModeler](http://pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for Postgres
-* [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for Mac OS X
-* [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for OS X (Commercial Software)
+* [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS
+* [Postico](https://eggerapps.at/postico/) - A Modern PostgreSQL Client for macOS (Commercial Software)
 * [PSequel](http://www.psequel.com/) - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly (Commercial Software)
 * [SQL Tabs](http://www.sqltabs.com/) - A Cross Platform Desktop Client for Postgres written in JS
-* [SQLPro for Postgres](http://macpostgresclient.com/) - A simple, powerful Postgres manager for Mac OS X (Commercial Software)
-* [Warp](http://warp.one/) - OS X desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software)
+* [SQLPro for Postgres](http://macpostgresclient.com/) - A simple, powerful Postgres manager for macOS (Commercial Software)
+* [Warp](http://warp.one/) - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software)
 
 ### Distributions
-* [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on the Mac
+* [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS
 
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
