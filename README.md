@@ -29,6 +29,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL
 * [pgBackRest](http://www.pgbackrest.org) - Reliable PostgreSQL Backup & Restore
+* [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift)
 
 ### GUI
 * [Adminer](https://www.adminer.org/) – Full-featured database management tool written in PHP
