@@ -21,6 +21,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
+* [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers
 * [Slony-I](http://slony.info) - A "master to multiple slaves" replication system with cascading and failover
 
@@ -29,6 +30,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL
 * [pgBackRest](http://www.pgbackrest.org) - Reliable PostgreSQL Backup & Restore
+* [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift)
 
 ### GUI
 * [Adminer](https://www.adminer.org/) – Full-featured database management tool written in PHP
