@@ -58,6 +58,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
+* [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads
 
 ### Monitoring
 * [Check\_postgres](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases
