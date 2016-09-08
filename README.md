@@ -25,11 +25,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Slony-I](http://slony.info) - A "master to multiple slaves" replication system with cascading and failover
 
 ### Backups
-* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL
 * [pgBackRest](http://www.pgbackrest.org) - Reliable PostgreSQL Backup & Restore
 * [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift)
+* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
 
 ### GUI
 * [Adminer](https://www.adminer.org/) – Full-featured database management tool written in PHP
@@ -66,15 +66,15 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pg\_view](https://github.com/zalando/pg_view) - An open-source command-line tool that shows global system stats, per-partition information, memory stats and other information
 
 ### Extensions
-* [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
-* [pg\_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
-* [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
-* [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
-* [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
-* [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
-* [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - An extension that provides logical streaming replication
+* [pg\_partman](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL
+* [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes
+* [pg\_shard](https://github.com/citusdata/pg_shard) - PostgreSQL extension to scale out real-time reads and writes
+* [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Postgres extension to offload CPU intensive workloads to GPU
+* [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
+* [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
+* [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
@@ -82,54 +82,54 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pgtune](http://pgtune.leopard.in.ua/) - Online version of PostgreSQL configuration wizard
 
 ### Utilities
-* [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
-* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script
-* [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics on your PostgreSQL database
-* [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data
-* [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
-* [pg\_activity](https://github.com/julmon/pg_activity) - pg\_activity is a top like application for PostgreSQL server activity monitoring
-* [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
-* [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
-* [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
-* [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
-* [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends
-* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
 * [apgdiff](http://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one
-* [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL
-* [PGXN client](https://github.com/dvarrazzo/pgxnclient) - A command line tool to interact with the PostgreSQL Extension Network
-* [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database
-* [pgsync](https://github.com/ankane/pgsync) - A tool to sync Postgres data to your local machine
-* [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections
+* [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases
+* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script
 * [ora2pg](http://ora2pg.darold.net) - a Perl module to export an Oracle database schema to a PostgreSQL compatible schema
+* [pg\_activity](https://github.com/julmon/pg_activity) - pg\_activity is a top like application for PostgreSQL server activity monitoring
+* [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software)
+* [pgbadger](https://github.com/dalibo/pgbadger) - a fast PostgreSQL Log Analyzer
+* [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL
+* [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends
+* [pgclimb](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats
+* [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way
+* [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your Postgresql database
+* [pgloader](https://github.com/dimitri/pgloader) - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data
+* [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections
+* [pgsync](https://github.com/ankane/pgsync) - A tool to sync Postgres data to your local machine
+* [PGXN client](https://github.com/dvarrazzo/pgxnclient) - A command line tool to interact with the PostgreSQL Extension Network
+* [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics on your PostgreSQL database
+* [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
+* [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
 
 ### Language bindings
-* Go: [pgx](https://github.com/jackc/pgx)
-* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
-* Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
-* Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
-* Node: [node-postgres](https://github.com/brianc/node-postgres)
-* PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
+* Go: [pgx](https://github.com/jackc/pgx)
+* Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+* Node: [node-postgres](https://github.com/brianc/node-postgres)
+* Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
+* PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
+* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 
 ### Tutorials
-* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
-* [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres
 * [Backup and recover a Postgres DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - A tutorial about setting up continuous archiving in PostgreSQL using wal-e
-* [PostgreSQL Exercises](https://pgexercises.com/) - A site  to make it easy to learn PostgreSQL by doing
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket
+* [Postgres Guide](http://postgresguide.com/) - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres
+* [PostgreSQL Exercises](https://pgexercises.com/) - A site  to make it easy to learn PostgreSQL by doing
+* [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - A very extensive collection of tutorials on PostgreSQL
 
 ### Blogs
 * [Planet PostgreSQL](http://planet.postgresql.org/) - A blog aggregation service for PostgreSQL
-* [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks
-* [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog
-* [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
-* [Michael Paquier's blog](http://paquier.xyz/)
-* [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
-* [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL/)
+* [Bruce Momjian's Postgres blog](http://momjian.us/main/blogs/pgblog.html)
+* [Craig Kerstiens Postgres Posts](http://www.craigkerstiens.com/categories/postgres/) - A set of posts on Postgres cool features/tips/tricks
+* [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog
+* [Michael Paquier's blog](http://paquier.xyz/)
+* [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
+* [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog
 
 ### Articles
 
