@@ -29,6 +29,7 @@
 <a href="https://github.com/dhamaniasad/awesome-postgres#awesome-postgres">Awesome Postgres</a>
 
 <ul>
+<li><a href="#high-availability">High-Availability</a></li>
 <li><a href="#backups">Backups</a></li>
 <li><a href="#gui">GUI</a></li>
 <li><a href="#distributions">Distributions</a></li>
@@ -41,6 +42,7 @@
 <li><a href="#language-bindings">Language bindings</a></li>
 <li><a href="#tutorials">Tutorials</a></li>
 <li><a href="#blogs">Blogs</a></li>
+<li><a href="#articles">Articles</a></li>
 <li><a href="#newsletters">Newsletters</a></li>
 <li><a href="#paas">PaaS (Hosted Postgres)</a></li>
 </ul>
@@ -48,13 +50,31 @@
 </ul>
 
 <h3>
+<a id="high-availability" class="anchor" href="#high-availability" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>High-Availability</h3>
+
+<ul>
+<li>
+<a href="https://github.com/zalando/patroni">Patroni</a> - A template for PostgreSQL HA with ZooKeeper or etcd</li>
+<li>
+<a href="https://github.com/2ndQuadrant/repmgr">repmgr</a> - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers</li>
+<li>
+<a href="http://slony.info">Slony-I</a> - A "master to multiple slaves" replication system with cascading and failover</li>
+</ul>
+
+<h3>
 <a id="backups" class="anchor" href="#backups" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Backups</h3>
 
 <ul>
 <li>
-<a href="https://github.com/wal-e/wal-e">wal-e</a> - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku</li>
-<li>
 <a href="http://www.pgbarman.org/">Barman</a> - Backup and Recovery Manager for Postgres by 2ndQuadrant</li>
+<li>
+<a href="https://github.com/omniti-labs/omnipitr">OmniPITR</a> - Advanced WAL File Management Tools for PostgreSQL</li>
+<li>
+<a href="http://www.pgbackrest.org">pgBackRest</a> - Reliable PostgreSQL Backup &amp; Restore</li>
+<li>
+<a href="https://github.com/ohmu/pghoard">pghoard</a> - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift)</li>
+<li>
+<a href="https://github.com/wal-e/wal-e">wal-e</a> - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku</li>
 </ul>
 
 <h3>
@@ -62,15 +82,37 @@
 
 <ul>
 <li>
-<a href="http://pgadmin.org/">pgAdmin</a> - Postgres Administration and Management GUI</li>
+<a href="https://www.adminer.org/">Adminer</a> – Full-featured database management tool written in PHP</li>
 <li>
-<a href="https://github.com/phppgadmin/phppgadmin">phpPgAdmin</a> - The Premier Web Based Administration Tool for Postgres</li>
+<a href="https://www.jetbrains.com/datagrip/">DataGrip</a> - An IDE with advanced tool sets and good cross-platform experience (Commercial Software)</li>
+<li>
+<a href="https://datazenit.com/">Datazenit</a> - Web-based PostgreSQL GUI (Commercial Software)</li>
+<li>
+<a href="http://dbeaver.jkiss.org">DBeaver</a> - Universal Database Manager with excellent support for Postgres</li>
+<li>
+<a href="https://www.jackdb.com/">JackDB</a> - Web-based SQL query interface (Commercial Software)</li>
+<li>
+<a href="http://www.metabase.com">Metabase</a> - Simple dashboards, charts and query tool for your Postgres DB</li>
+<li>
+<a href="https://www.pgadmin.org/">pgAdmin</a> - Postgres Administration and Management GUI</li>
+<li>
+<a href="http://pgmodeler.com.br/">pgModeler</a> - pgModeler is an open-source PostgreSQL Database Modeler</li>
 <li>
 <a href="https://github.com/sosedoff/pgweb">pgweb</a> - Web-based PostgreSQL database browser written in Go</li>
 <li>
-<a href="https://eggerapps.at/postico/">Postico</a> - A Modern PostgreSQL Client for OS X (Commercial Software)</li>
+<a href="https://github.com/phppgadmin/phppgadmin">phpPgAdmin</a> - The Premier Web Based Administration Tool for Postgres</li>
+<li>
+<a href="https://github.com/Paxa/postbird">Postbird</a> - PostgreSQL Client for macOS</li>
+<li>
+<a href="https://eggerapps.at/postico/">Postico</a> - A Modern PostgreSQL Client for macOS (Commercial Software)</li>
 <li>
 <a href="http://www.psequel.com/">PSequel</a> - PSequel provides a clean and simple interface for you to perform common PostgreSQL tasks quickly (Commercial Software)</li>
+<li>
+<a href="http://www.sqltabs.com/">SQL Tabs</a> - A Cross Platform Desktop Client for Postgres written in JS</li>
+<li>
+<a href="http://macpostgresclient.com/">SQLPro for Postgres</a> - A simple, powerful Postgres manager for macOS (Commercial Software)</li>
+<li>
+<a href="http://warp.one/">Warp</a> - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software)</li>
 </ul>
 
 <h3>
@@ -78,7 +120,7 @@
 
 <ul>
 <li>
-<a href="http://postgresapp.com/">Postgres.app</a> - The Easiest Way to Get Started with PostgreSQL on the Mac</li>
+<a href="http://postgresapp.com/">Postgres.app</a> - The Easiest Way to Get Started with PostgreSQL on macOS</li>
 </ul>
 
 <h3>
@@ -97,6 +139,8 @@
 <ul>
 <li>
 <a href="http://www.postgres-xl.org/">Postgres-XL</a> - Scalable Open Source PostgreSQL-based Database Cluster</li>
+<li>
+<a href="https://github.com/citusdata/citus">Citus</a> - Scalable PostgreSQL cluster for real-time workloads</li>
 </ul>
 
 <h3>
@@ -106,7 +150,11 @@
 <li>
 <a href="https://github.com/bucardo/check_postgres">Check_postgres</a> - Nagios check_postgres plugin for checking status of PostgreSQL databases</li>
 <li>
+<a href="https://github.com/cavaliercoder/libzbxpgsql">libzbxpgsql</a> - A comprehensive PostgreSQL monitoring module for Zabbix</li>
+<li>
 <a href="https://github.com/rach/pome">Pome</a> - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database</li>
+<li>
+<a href="https://github.com/zalando/pg_view">pg_view</a> - An open-source command-line tool that shows global system stats, per-partition information, memory stats and other information</li>
 </ul>
 
 <h3>
@@ -114,13 +162,23 @@
 
 <ul>
 <li>
-<a href="https://wiki.postgresql.org/wiki/PGStrom">PGStrom</a> - Postgres extension to offload CPU intensive workloads to GPU</li>
+<a href="https://github.com/citusdata/cstore_fdw">cstore_fdw</a> - Columnar store for analytics with PostgreSQL</li>
+<li>
+<a href="https://github.com/2ndQuadrant/pglogical">pglogical</a> - An extension that provides logical streaming replication</li>
+<li>
+<a href="https://github.com/keithf4/pg_partman">pg_partman</a> - Partition management extension for PostgreSQL</li>
+<li>
+<a href="https://github.com/citusdata/pg_paxos/">pg_paxos</a> - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes</li>
 <li>
 <a href="https://github.com/citusdata/pg_shard">pg_shard</a> - PostgreSQL extension to scale out real-time reads and writes</li>
 <li>
+<a href="https://wiki.postgresql.org/wiki/PGStrom">PGStrom</a> - Postgres extension to offload CPU intensive workloads to GPU</li>
+<li>
+<a href="https://github.com/okbob/plpgsql_check">plpgsql_check</a> - An extension that allows to check plpgsql source code</li>
+<li>
 <a href="http://postgis.net/">PostGIS</a> - Spatial and Geographic objects for PostgreSQL</li>
 <li>
-<a href="https://github.com/citusdata/pg_paxos/">pg_paxos</a> - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes</li>
+<a href="https://github.com/zombodb/zombodb">zomboDB</a> - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch</li>
 </ul>
 
 <h3>
@@ -131,6 +189,8 @@
 <a href="https://github.com/ankane/pghero">PgHero</a> - Postgres insights made easy</li>
 <li>
 <a href="https://github.com/gregs1104/pgtune/">pgtune</a> - PostgreSQL configuration wizard</li>
+<li>
+<a href="http://pgtune.leopard.in.ua/">pgtune</a> - Online version of PostgreSQL configuration wizard</li>
 </ul>
 
 <h3>
@@ -138,40 +198,68 @@
 
 <ul>
 <li>
-<a href="https://github.com/begriffs/postgrest">PostgREST</a> - PostgREST serves a fully RESTful API from any existing PostgreSQL database</li>
+<a href="http://www.apgdiff.com/">apgdiff</a> - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one</li>
+<li>
+<a href="https://github.com/Alexis-benoist/eralchemy">ERAlchemy</a> - ERAlchemy generates Entity Relation (ER) diagram from databases</li>
 <li>
 <a href="https://github.com/lanyrd/mysql-postgresql-converter">mysql-postgresql-converter</a> - Lanyrd's MySQL to PostgreSQL conversion script</li>
 <li>
-<a href="https://github.com/spotify/postgresql-metrics">postgresql-metrics</a> - Tool that extracts and provides metrics on your PostgreSQL database</li>
-<li>
-<a href="https://github.com/dimitri/pgloader">pgloader</a> - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data</li>
-<li>
-<a href="https://github.com/dalibo/pgbadger">pgbadger</a> - a fast PostgreSQL Log Analyzer</li>
+<a href="http://ora2pg.darold.net">ora2pg</a> - a Perl module to export an Oracle database schema to a PostgreSQL compatible schema</li>
 <li>
 <a href="https://github.com/julmon/pg_activity">pg_activity</a> - pg_activity is a top like application for PostgreSQL server activity monitoring</li>
 <li>
-<a href="https://github.com/lukasmartinelli/pgfutter">pgfutter</a> - Import CSV and JSON into PostgreSQL the easy way</li>
-<li>
 <a href="https://pganalyze.com">pganalyze</a> - PostgreSQL Performance Monitoring (Commercial Software)</li>
 <li>
-<a href="https://github.com/nanopack/yoke">yoke</a> - Postgres high-availability cluster with auto-failover and automated cluster recovery</li>
+<a href="https://github.com/dalibo/pgbadger">pgbadger</a> - a fast PostgreSQL Log Analyzer</li>
+<li>
+<a href="http://pgbouncer.github.io">PgBouncer</a> - Lightweight connection pooler for PostgreSQL</li>
 <li>
 <a href="https://github.com/lesovsky/pgcenter">pgCenter</a> - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends</li>
 <li>
-<a href="https://github.com/Alexis-benoist/eralchemy">ERAlchemy</a> - ERAlchemy generates Entity Relation (ER) diagram from databases</li>
+<a href="https://github.com/lukasmartinelli/pgclimb">pgclimb</a> - Export data from PostgreSQL into different data formats</li>
+<li>
+<a href="https://github.com/lukasmartinelli/pgfutter">pgfutter</a> - Import CSV and JSON into PostgreSQL the easy way</li>
+<li>
+<a href="http://pginsight.io/">PGInsight</a> - CLI tool to easily dig deep inside your Postgresql database</li>
+<li>
+<a href="https://github.com/dimitri/pgloader">pgloader</a> - Pgloader loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data</li>
+<li>
+<a href="http://www.pgpool.net/mediawiki/index.php/Main_Page">pgpool-II</a> - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections</li>
+<li>
+<a href="https://github.com/ankane/pgsync">pgsync</a> - A tool to sync Postgres data to your local machine</li>
+<li>
+<a href="https://github.com/dvarrazzo/pgxnclient">PGXN client</a> - A command line tool to interact with the PostgreSQL Extension Network</li>
+<li>
+<a href="https://github.com/spotify/postgresql-metrics">postgresql-metrics</a> - Tool that extracts and provides metrics on your PostgreSQL database</li>
+<li>
+<a href="https://github.com/begriffs/postgrest">PostgREST</a> - PostgREST serves a fully RESTful API from any existing PostgreSQL database</li>
+<li>
+<a href="https://github.com/nanopack/yoke">yoke</a> - Postgres high-availability cluster with auto-failover and automated cluster recovery</li>
 </ul>
 
 <h3>
 <a id="language-bindings" class="anchor" href="#language-bindings" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Language bindings</h3>
 
 <ul>
-<li>Rust: <a href="https://github.com/sfackler/rust-postgres">rust-postgresql</a>
+<li>Common Lisp: <a href="https://github.com/marijnh/Postmodern">Postmodern</a>
 </li>
-<li>Perl: <a href="http://search.cpan.org/%7Erudy/DBD-Pg/Pg.pm">DBD-Pg</a>
+<li>Elixir: <a href="https://github.com/elixir-ecto/postgrex">postgrex</a>
+</li>
+<li>Go: <a href="https://github.com/jackc/pgx">pgx</a>
 </li>
 <li>Java: <a href="https://jdbc.postgresql.org/">PostgreSQL JDBC Driver</a>
 </li>
 <li>Node: <a href="https://github.com/brianc/node-postgres">node-postgres</a>
+</li>
+<li>Perl: <a href="http://search.cpan.org/%7Eturnstep/DBD-Pg/Pg.pm">DBD-Pg</a>
+</li>
+<li>PHP: <a href="http://www.pomm-project.org">Pomm</a>, <a href="https://github.com/m6w6/ext-pq">pecl/pq</a>
+</li>
+<li>Python: <a href="https://pypi.python.org/pypi/psycopg2">psycopg2</a>
+</li>
+<li>Ruby: <a href="https://bitbucket.org/ged/ruby-pg/wiki/Home">pg</a>
+</li>
+<li>Rust: <a href="https://github.com/sfackler/rust-postgres">rust-postgresql</a>
 </li>
 </ul>
 
@@ -180,13 +268,15 @@
 
 <ul>
 <li>
-<a href="http://www.tutorialspoint.com/postgresql/">tutorialspoint PostgreSQL tutorial</a> - A very extensive collection of tutorials on PostgreSQL</li>
+<a href="https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e">Backup and recover a Postgres DB using wal-e</a> - A tutorial about setting up continuous archiving in PostgreSQL using wal-e</li>
+<li>
+<a href="https://www.pgcasts.com">PG Casts</a> - Free weekly PostgreSQL screencasts by Hashrocket</li>
 <li>
 <a href="http://postgresguide.com/">Postgres Guide</a> - A guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within Postgres</li>
 <li>
-<a href="https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e">Backup and recover a Postgres DB using wal-e</a> - A tutorial about setting up continuous archiving in PostgreSQL using wal-e</li>
+<a href="https://pgexercises.com/">PostgreSQL Exercises</a> - A site  to make it easy to learn PostgreSQL by doing</li>
 <li>
-<a href="http://pgexercises.com/">PostgreSQL Exercises</a> - A site  to make it easy to learn PostgreSQL by doing</li>
+<a href="http://www.tutorialspoint.com/postgresql/">tutorialspoint PostgreSQL tutorial</a> - A very extensive collection of tutorials on PostgreSQL</li>
 </ul>
 
 <h3>
@@ -194,9 +284,24 @@
 
 <ul>
 <li>
-<a href="https://planet.postgresql.org/">Planet PostgreSQL</a> - A blog aggregation service for PostgreSQL</li>
+<a href="http://planet.postgresql.org/">Planet PostgreSQL</a> - A blog aggregation service for PostgreSQL</li>
+<li><a href="http://adpgtech.blogspot.ru/search/label/PostgreSQL/">Andrew Dunstan's PostgreSQL and Technical blog</a></li>
+<li><a href="http://momjian.us/main/blogs/pgblog.html">Bruce Momjian's Postgres blog</a></li>
 <li>
 <a href="http://www.craigkerstiens.com/categories/postgres/">Craig Kerstiens Postgres Posts</a> - A set of posts on Postgres cool features/tips/tricks</li>
+<li>
+<a href="http://www.databasesoup.com/search/label/postgresql/">Database Soup</a> - Josh Berkus' blog</li>
+<li><a href="http://paquier.xyz/">Michael Paquier's blog</a></li>
+<li><a href="http://rhaas.blogspot.ru/search/label/postgresql/">Robert Haas' blog</a></li>
+<li>
+<a href="https://www.depesz.com/tag/postgresql/">select * from depesz;</a> - Hubert Lubaczewski's blog</li>
+</ul>
+
+<h3>
+<a id="articles" class="anchor" href="#articles" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Articles</h3>
+
+<ul>
+<li><a href="https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/">What PostgreSQL has over other open source SQL databases: Part I</a></li>
 </ul>
 
 <h3>
@@ -204,7 +309,7 @@
 
 <ul>
 <li>
-<a href="http://www.postgresweekly.com">Postgres Weekly</a> - A weekly newsletter that contains articles, news, and repos relevant to Postgres</li>
+<a href="http://postgresweekly.com/">Postgres Weekly</a> - A weekly newsletter that contains articles, news, and repos relevant to Postgres</li>
 </ul>
 
 <h3>
@@ -214,7 +319,13 @@
 
 <ul>
 <li>
-<a href="http://www.elephantsql.com">ElephantSQL</a> - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.</li>
+<a href="https://aiven.io/postgresql">Aiven PostgreSQL</a> - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks</li>
+<li>
+<a href="https://www.databaselabs.io">Database Labs</a> - Get a production-ready cloud Postgres server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included</li>
+<li>
+<a href="http://www.elephantsql.com">ElephantSQL</a> - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each</li>
+<li>
+<a href="https://elements.heroku.com/addons/heroku-postgresql">Heroku Postgres</a> - Plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support</li>
 </ul>
 
       <footer class="site-footer">
@@ -225,6 +336,16 @@
 
     </section>
 
-  
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-53446916-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
   </body>
 </html>
