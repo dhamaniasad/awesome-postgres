@@ -61,7 +61,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads
 
 ### Monitoring
-* [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics
+* [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics
 * [Check\_postgres](https://github.com/bucardo/check_postgres) - Nagios check\_postgres plugin for checking status of PostgreSQL databases
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - A comprehensive PostgreSQL monitoring module for Zabbix
 * [Pome](https://github.com/rach/pome) - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database
