@@ -27,7 +27,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL
-* [pg\_back](https://dalibo.github.io/pitrery/) - pg\_back is a simple backup script 
+* [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script 
 * [pgBackRest](http://www.pgbackrest.org) - Reliable PostgreSQL Backup & Restore
 * [pghoard](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift)
 * [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for Postgres to S3, Azure, or Swift by Heroku
