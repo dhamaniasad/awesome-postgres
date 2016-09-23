@@ -109,6 +109,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics on your PostgreSQL database
 * [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
 * [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
+* [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
