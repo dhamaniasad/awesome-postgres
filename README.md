@@ -107,6 +107,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment
+* [SkyTools](https://github.com/markokr/skytools) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
