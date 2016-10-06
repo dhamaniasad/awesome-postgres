@@ -138,6 +138,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Articles
 
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+* [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
 ### Newsletters
 
