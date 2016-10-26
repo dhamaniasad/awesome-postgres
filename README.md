@@ -1,23 +1,24 @@
 # Awesome Postgres
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
-- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres)
-  - [High-Availability](#high-availability)
-  - [Backups](#backups)
-  - [GUI](#gui)
-  - [Distributions](#distributions)
-  - [CLI](#cli)
-  - [Server](#server)
-  - [Monitoring](#monitoring)
-  - [Extensions](#extensions)
-  - [Optimization](#optimization)
-  - [Utilities](#utilities)
-  - [Language bindings](#language-bindings)
-  - [Tutorials](#tutorials)
-  - [Blogs](#blogs)
-  - [Articles](#articles)
-  - [Newsletters](#newsletters)
-  - [PaaS (Hosted Postgres)](#paas)
+## Contents
+
+- [High-Availability](#high-availability)
+- [Backups](#backups)
+- [GUI](#gui)
+- [Distributions](#distributions)
+- [CLI](#cli)
+- [Server](#server)
+- [Monitoring](#monitoring)
+- [Extensions](#extensions)
+- [Optimization](#optimization)
+- [Utilities](#utilities)
+- [Language bindings](#language-bindings)
+- [Tutorials](#tutorials)
+- [Blogs](#blogs)
+- [Articles](#articles)
+- [Newsletters](#newsletters)
+- [PaaS (Hosted Postgres)](#paas)
 
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
