@@ -70,6 +70,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - A comprehensive PostgreSQL monitoring module for Zabbix
 * [Pome](https://github.com/rach/pome) - Pome stands for Postgres Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database
 * [pg\_view](https://github.com/zalando/pg_view) - An open-source command-line tool that shows global system stats, per-partition information, memory stats and other information
+* [opm.io](http://opm.io/) - Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It's a flexible tool that will follow the activity of each instance. It can gather stats, display dashboards and send warnings when something goes wrong. The long-term goal of the project is to provide similar features to those of Oracle Grid Control or SQL Server Management Studio. [check_pgactivity is one of the tools in this tool suite]
 
 ### Extensions
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL
