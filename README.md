@@ -27,6 +27,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers
 * [Slony-I](http://slony.info) - A "master to multiple slaves" replication system with cascading and failover
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+* [SkyTools](https://github.com/markokr/skytools) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
