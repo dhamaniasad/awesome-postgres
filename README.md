@@ -1,26 +1,28 @@
-# Awesome Postgres
+# Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
 
-- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres#awesome-postgres)
-  - [High-Availability](#high-availability)
-  - [Backups](#backups)
-  - [GUI](#gui)
-  - [Distributions](#distributions)
-  - [CLI](#cli)
-  - [Server](#server)
-  - [Monitoring](#monitoring)
-  - [Extensions](#extensions)
-  - [Optimization](#optimization)
-  - [Utilities](#utilities)
-  - [Language bindings](#language-bindings)
-  - [Tutorials](#tutorials)
-  - [Blogs](#blogs)
-  - [Articles](#articles)
-  - [Newsletters](#newsletters)
-  - [PaaS (Hosted Postgres)](#paas)
+## Contents
+
+- [High-Availability](#high-availability)
+- [Backups](#backups)
+- [GUI](#gui)
+- [Distributions](#distributions)
+- [CLI](#cli)
+- [Server](#server)
+- [Monitoring](#monitoring)
+- [Extensions](#extensions)
+- [Optimization](#optimization)
+- [Utilities](#utilities)
+- [Language bindings](#language-bindings)
+- [Tutorials](#tutorials)
+- [Blogs](#blogs)
+- [Articles](#articles)
+- [Newsletters](#newsletters)
+- [PaaS (Hosted Postgres)](#paas)
 
 ### High-Availability
 * [Patroni](https://github.com/zalando/patroni) - A template for PostgreSQL HA with ZooKeeper or etcd
+* [Stolon](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration
 * [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers
 * [Slony-I](http://slony.info) - A "master to multiple slaves" replication system with cascading and failover
@@ -37,6 +39,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [DataGrip](https://www.jetbrains.com/datagrip/) - An IDE with advanced tool sets and good cross-platform experience (Commercial Software)
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software)
 * [DBeaver](http://dbeaver.jkiss.org) - Universal Database Manager with excellent support for Postgres
+* [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software)
 * [Metabase](http://www.metabase.com) - Simple dashboards, charts and query tool for your Postgres DB
 * [pgAdmin](https://www.pgadmin.org/) - Postgres Administration and Management GUI
@@ -85,6 +88,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard
 * [pgtune](http://pgtune.leopard.in.ua/) - Online version of PostgreSQL configuration wizard
+* [pgconfig.org](http://pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune) 
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 
 ### Utilities
@@ -143,6 +147,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Articles
 
 * [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+* [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 
 ### Newsletters
 
@@ -152,5 +157,5 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *(Postgres as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks
 * [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud Postgres server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included
-* [ElephantSQL](http://www.elephantsql.com) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each
+* [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by Postgres experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support
