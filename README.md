@@ -81,6 +81,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
 * [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
+* [pgxn](http://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
