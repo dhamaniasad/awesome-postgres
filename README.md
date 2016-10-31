@@ -26,6 +26,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Is an open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers
 * [Slony-I](http://slony.info) - A "master to multiple slaves" replication system with cascading and failover
+* [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
+* [SkyTools](https://github.com/markokr/skytools) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for Postgres by 2ndQuadrant
@@ -59,6 +61,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### CLI
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+* [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster
@@ -81,6 +84,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - An extension that allows to check plpgsql source code
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL
 * [zomboDB](https://github.com/zombodb/zombodb) - Postgres extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch
+* [pgxn](http://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - Postgres insights made easy
@@ -109,6 +113,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics on your PostgreSQL database
 * [PostgREST](https://github.com/begriffs/postgrest) - PostgREST serves a fully RESTful API from any existing PostgreSQL database
 * [yoke](https://github.com/nanopack/yoke) - Postgres high-availability cluster with auto-failover and automated cluster recovery
+* [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+* [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
