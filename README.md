@@ -130,7 +130,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 
 ### Blogs
-* [Planet PostgreSQL](http://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
+* [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.ru/search/label/PostgreSQL/)
 * [Bruce Momjian's PostgreSQL blog](http://momjian.us/main/blogs/pgblog.html)
 * [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) - Set of posts on PostgreSQL cool features, tips and tricks.
