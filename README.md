@@ -83,6 +83,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+* [cyanaudit](http://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
