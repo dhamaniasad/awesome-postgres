@@ -21,6 +21,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 
 ### High-Availability
+* [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
 * [Patroni](https://github.com/zalando/patroni) - Template for PostgreSQL HA with ZooKeeper or etcd.
 * [Stolon](https://github.com/sorintlab/stolon) - PostgreSQL HA based on Consul or etcd, with Kubernetes integration.
 * [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon.
