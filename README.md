@@ -58,8 +58,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
 
 ### CLI
-* [pgcli](https://github.com/dbcli/pgcli) - PostgreSQL CLI tool with autocompletion and syntax highlighting.
-* [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV.
+* [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+* [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
+* [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ### Server
 * [Postgres-XL](http://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
