@@ -27,6 +27,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [pglookout](https://github.com/ohmu/pglookout) - Replication monitoring and failover daemon.
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
 * [Slony-I](http://slony.info) - "Master to multiple slaves" replication system with cascading and failover.
+* [Governer] (https://github.com/compose/governor) - Runners to orchestrate a high-availability PostgreSQL.
+* [PAF] (https://github.com/dalibo/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync. 
+* [pgHA] (https://bitbucket.org/openscg/pgha) - Failoverd is an automatic failover monitoring system for Postgres database systems. It is designed to work with pgBouncer installed on the application servers for simplicity.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
