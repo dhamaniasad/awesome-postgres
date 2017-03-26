@@ -19,7 +19,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 - [Articles](#articles)
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
-- [Docker images](#Docker-images)
+- [Docker images](#docker-images)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
