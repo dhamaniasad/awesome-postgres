@@ -1,0 +1,8 @@
+title: Awesome Postgres
+description: A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+google_analytics: UA-53446916-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
