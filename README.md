@@ -19,6 +19,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 - [Articles](#articles)
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
+- [Docker images](#Docker-images)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -165,3 +166,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 * [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
 * [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+
+### Docker images 
+* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
+* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
+* [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
