@@ -62,6 +62,7 @@
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [Warp](https://warp.one/) - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software).
+* [TablePlus](https://tableplus.io/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
 
 ### Distributions
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
