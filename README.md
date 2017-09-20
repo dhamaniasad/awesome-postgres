@@ -103,8 +103,8 @@
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
-* [pgtune](http://pgtune.leopard.in.ua/) - Online version of PostgreSQL configuration wizard.
-* [pgconfig.org](https://www.pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune).
+* [pgtune](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
+* [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 
 ### Utilities
