@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list psequel,elements.heroku.com/addons/heroku-postgresql
+  - awesome_bot README.md --white-list psequel,elements.heroku.com/addons/heroku-postgresql,pgconfig,en.wikipedia.org/wiki/PostgreSQL,www.postgresql.org
