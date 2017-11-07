@@ -37,6 +37,7 @@
 * [repmgr](https://github.com/2ndQuadrant/repmgr) - Open-source tool suite to manage replication and failover in a cluster of PostgreSQL servers.
 * [Slony-I](http://slony.info) - "Master to multiple slaves" replication system with cascading and failover.
 * [PAF](https://github.com/dalibo/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
+* [SkyTools](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ### Backups
 * [Barman](http://www.pgbarman.org/) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
@@ -140,7 +141,7 @@
 * [PGXN client](https://github.com/dvarrazzo/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
 * [PostgREST](https://github.com/begriffs/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
-* [pREST](https://github.com/nuveo/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
+* [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 * [PostGraphQL](https://github.com/postgraphql/postgraphql) - A GraphQL schema created by reflection over a PostgreSQL schema.
 * [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
