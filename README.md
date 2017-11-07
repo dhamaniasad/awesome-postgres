@@ -102,6 +102,7 @@
 * [zomboDB](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 * [pgMemento](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 * [Timescale](https://www.timescale.com/) - Open-source time-series database fully compatible with Postgres, distributed as extension
+* [pgTAP](http://pgtap.org/) - Database testing framework for Postgres
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
