@@ -26,6 +26,7 @@
 - [Articles](#articles)
 - [Newsletters](#newsletters)
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
+- [Videos](#videos)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -193,3 +194,8 @@
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform. (Beta)
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 
+### Videos
+
+* [Citus Data Youtube chanel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
+* [EnterpriseDB Youtube chanel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
+* [PGConf US Youtube chanel](https://www.youtube.com/pgconfus/) - Conference videos
