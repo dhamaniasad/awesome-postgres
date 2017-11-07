@@ -163,6 +163,7 @@
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
+* Lua: [luapgsql](https://github.com/arcapos/luapgsql)
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
