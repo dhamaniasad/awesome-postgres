@@ -116,6 +116,7 @@
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity](https://github.com/julmon/pg_activity) - top like application for PostgreSQL server activity monitoring.
+* [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software).
 * [pgbadger](https://github.com/dalibo/pgbadger) - Fast PostgreSQL Log Analyzer.
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL.
