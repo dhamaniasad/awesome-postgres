@@ -28,6 +28,8 @@
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Docker images](#docker-images)
 - [Videos](#videos)
+- [Doucuments](#documents)
+- [Migration](#migration)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -215,4 +217,11 @@ For Database Management
 * [Citus Data Youtube chanel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 * [EnterpriseDB Youtube chanel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 * [PGConf US Youtube chanel](https://www.youtube.com/pgconfus/) - Conference videos
+
+### Documents
+* [PostgreSQL Document](https://www.postgresql.org/docs/10/static/index.html)
+* [PostgreSQL Document Chinese](https://github.com/postgres-cn)
+
+### Migration
+* [Comparison of database tools](https://en.wikipedia.org/wiki/Comparison_of_database_tools)
 
