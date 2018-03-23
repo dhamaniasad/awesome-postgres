@@ -123,6 +123,7 @@ For Database Management
 * [pgtune](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
 * [PoWA](http://dalibo.github.io/powa/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
+* [pg_web_stats](https://github.com/kirs/pg_web_stats) - Web UI to view pg_stat_statements.
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
