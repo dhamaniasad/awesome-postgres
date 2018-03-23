@@ -61,7 +61,7 @@ For Database Management
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
-* [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
+* [pgModeler](https://pgmodeler.io) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
