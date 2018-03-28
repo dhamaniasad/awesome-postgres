@@ -160,7 +160,7 @@ For Database Management
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
-* Go: [pgx](https://github.com/jackc/pgx)
+* Go: [pgx](https://github.com/jackc/pgx), [go-pg](https://github.com/go-pg/pg)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
