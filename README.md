@@ -57,7 +57,6 @@ For Database Management
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DBeaver](https://dbeaver.jkiss.org) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
-* [Elephant Shed](https://elephant-shed.io/) - Elephant Shed is a web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
@@ -85,6 +84,7 @@ For Database Management
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 
 ### Server
+* [Elephant Shed](https://elephant-shed.io/) - Elephant Shed is a web-based PostgreSQL management front-end that bundles several utilities and applications (like administration, backup, monitoring and logging) for use with PostgreSQL
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [PipelineDB](https://www.pipelinedb.com/) - Open source streaming SQL database, fork of postgres
