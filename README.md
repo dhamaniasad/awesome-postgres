@@ -72,6 +72,7 @@ For Database Management
 * [temBoard](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 * [Warp](https://warp.one/) - macOS desktop tool for by-example querying and data transfer from/to PostgreSQL (Commercial Software).
 * [TablePlus](https://tableplus.io/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
+* [TeamSQL](https://teamsql.io/) - Cross-platform SQL Client: Simple, Effortless, Extensible.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 
 ### Distributions
