@@ -153,6 +153,7 @@ For Database Management
 * [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 * [pg_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL. 
 * [pg_migrate](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+* [skor](https://github.com/hasura/skor) - A collection of utilities that notify/stream table events over HTTP.
 * [sqitch](https://github.com/theory/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
