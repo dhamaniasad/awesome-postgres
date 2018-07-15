@@ -189,6 +189,7 @@ For Database Management
 * [Michael Paquier's blog](http://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.ru/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
+* [Digoal's PostgreSQL blog](https://github.com/digoal/blog/blob/master/README.md) - Digoal's blog.
 
 ### Articles
 
