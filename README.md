@@ -15,6 +15,7 @@
 - [GUI](#gui)
 - [Distributions](#distributions)
 - [CLI](#cli)
+- [Security](#security)
 - [Server](#server)
 - [Monitoring](#monitoring)
 - [Extensions](#extensions)
@@ -82,6 +83,9 @@ For Database Management
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+
+### Security
+* [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
