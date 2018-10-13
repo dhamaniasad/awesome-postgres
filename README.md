@@ -166,7 +166,7 @@ For Database Management
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
-* Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
+* Python: [psycopg2](https://pypi.python.org/pypi/psycopg2) [pg8000](https://pypi.org/project/pg8000/)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * Lua: [luapgsql](https://github.com/arcapos/luapgsql)
