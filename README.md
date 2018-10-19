@@ -163,7 +163,7 @@ For Database Management
 * Go: [pgx](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
-* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
+* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
