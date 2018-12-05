@@ -75,6 +75,7 @@ For Database Management
 * [TablePlus](https://tableplus.io/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
 * [TeamSQL](https://teamsql.io/) - Cross-platform SQL Client: Simple, Effortless, Extensible.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
+* [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 
 ### Distributions
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
