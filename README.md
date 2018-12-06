@@ -40,7 +40,7 @@
 * [SkyTools](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 
 ### Backups
-* [Barman](https://pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
+* [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 * [pgBackRest](https://pgbackrest.org/  - Reliable PostgreSQL Backup & Restore.
@@ -56,7 +56,7 @@
 For Database Management
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
-* [DBeaver](https://dbeaver.jkiss.org) - Universal Database Manager with excellent support for PostgreSQL.
+* [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
@@ -124,7 +124,7 @@ For Database Management
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 * [pgtune](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
-* [PoWA](https://powa.readthedocs.io/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
+* [PoWA](https://powa.readthedocs.io/en/latest/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) - Web UI to view pg_stat_statements.
 
 ### Utilities
@@ -181,7 +181,7 @@ For Database Management
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
-* [PostgreSQL Primer for Busy People]( https://zaiste.net/posts/postgresql_primer_for_busy_people/) - A collection of the most common commands used in PostgreSQL
+* [PostgreSQL Primer for Busy People](https://zaiste.net/postgresql_primer_for_busy_people/) - A collection of the most common commands used in PostgreSQL
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
