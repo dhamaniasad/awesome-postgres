@@ -220,6 +220,6 @@ For Database Management
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
 ### Videos
-* [Citus Data Youtube chanel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
-* [EnterpriseDB Youtube chanel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
-* [PGConf US Youtube chanel](https://www.youtube.com/pgconfus/) - Conference videos
+* [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
+* [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
+* [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
