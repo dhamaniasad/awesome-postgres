@@ -159,6 +159,7 @@ For Database Management
 * [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+* [pg-differ](https://github.com/av-dev/postgres-differ) - Tool for easy synchronization of PostgreSQL tables with models (json-schemas), migration alternative
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
