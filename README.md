@@ -162,6 +162,7 @@ For Database Management
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
+* Clojure: [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
 * Go: [pgx](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
