@@ -234,6 +234,6 @@ For Database Management
 ### Community
 * [Mailing lists](https://www.postgresql.org/list/) - one of the primary ways to interact
 * [Slack](https://postgres-slack.herokuapp.com/) - several active channels
-* [#postgresql on Freenode](irc://irc.freenode.net/postgresql) - an active IRC channel
+* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - an active IRC channel
 * [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
 * [Reddit](https://www.reddit.com/r/PostgreSQL/)
