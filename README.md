@@ -28,6 +28,8 @@
 - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
 - [Docker images](#docker-images)
 - [Videos](#videos)
+- [Community](#community)
+
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -229,3 +231,10 @@ For Database Management
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
+
+### Community
+* [Mailing lists](https://www.postgresql.org/list/) - one of the primary ways to interact
+* [Slack](https://postgres-slack.herokuapp.com/) - several active channels
+* [#postgresql on Freenode](irc://irc.freenode.net/postgresql) - an active IRC channel
+* [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
+* [Reddit](https://www.reddit.com/r/PostgreSQL/)
