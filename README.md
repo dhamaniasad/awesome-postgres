@@ -240,7 +240,7 @@ For Database Management
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
 
 ### Community
-* [Mailing lists](https://www.postgresql.org/list/) - one of the primary ways to interact
-* [Slack](https://postgres-slack.herokuapp.com/) - several active channels
-* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - an active IRC channel
-* [Reddit](https://www.reddit.com/r/PostgreSQL/)
+* [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community. 
+* [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with close to 5000 users
+* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - The most popular IRC channel about Postgres on Freenode with close to 1000 users 
+* [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with close to 10000 users
