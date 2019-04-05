@@ -28,6 +28,7 @@
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
     - [Articles](#articles)
+    - [Documentation](#documentation)
     - [Newsletters](#newsletters)
     - [Videos](#videos)
     - [Community](#community)
@@ -226,6 +227,9 @@ For Database Management
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.co/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 
+### Documentation
+* [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
+
 ### Newsletters
 
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
@@ -239,5 +243,4 @@ For Database Management
 * [Mailing lists](https://www.postgresql.org/list/) - one of the primary ways to interact
 * [Slack](https://postgres-slack.herokuapp.com/) - several active channels
 * [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - an active IRC channel
-* [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
 * [Reddit](https://www.reddit.com/r/PostgreSQL/)
