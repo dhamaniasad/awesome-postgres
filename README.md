@@ -174,6 +174,7 @@ For Database Management
 * Clojure: [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
 * Go: [pgx](https://github.com/jackc/pgx)
+* Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
