@@ -10,25 +10,27 @@
 
 ## Contents
 
-- [High-Availability](#high-availability)
-- [Backups](#backups)
-- [GUI](#gui)
-- [Distributions](#distributions)
-- [CLI](#cli)
-- [Server](#server)
-- [Monitoring](#monitoring)
-- [Extensions](#extensions)
-- [Optimization](#optimization)
-- [Utilities](#utilities)
-- [Language bindings](#language-bindings)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [Articles](#articles)
-- [Newsletters](#newsletters)
-- [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
-- [Docker images](#docker-images)
-- [Videos](#videos)
-- [Community](#community)
+- [Awesome Postgres](#awesome-postgres-)
+    - [High-Availability](#high-availability)
+    - [Backups](#backups)
+    - [GUI](#gui)
+    - [Distributions](#distributions)
+    - [CLI](#cli)
+    - [Server](#server)
+    - [Monitoring](#monitoring)
+    - [Extensions](#extensions)
+    - [Optimization](#optimization)
+    - [Utilities](#utilities)
+    - [Language bindings](#language-bindings)
+    - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
+    - [Docker images](#docker-images)
+- [Resources](#resources)
+    - [Tutorials](#tutorials)
+    - [Blogs](#blogs)
+    - [Articles](#articles)
+    - [Newsletters](#newsletters)
+    - [Videos](#videos)
+    - [Community](#community)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -180,6 +182,24 @@ For Database Management
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * Lua: [luapgsql](https://github.com/arcapos/luapgsql)
 
+### PaaS *(PostgreSQL as a Service)*
+* [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
+* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
+* [Citus Cloud](https://www.citusdata.com/product/cloud) - Production grade scaled out PostgreSQL as a service enabling real-time workloads and sharding your multi-tenant apps.
+* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
+* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
+* [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
+* [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform. (Beta)
+* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/) - Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.
+
+### Docker images
+* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
+* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
+* [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
+
+## Resources
+
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
@@ -209,22 +229,6 @@ For Database Management
 ### Newsletters
 
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
-
-### PaaS *(PostgreSQL as a Service)*
-* [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
-* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
-* [Citus Cloud](https://www.citusdata.com/product/cloud) - Production grade scaled out PostgreSQL as a service enabling real-time workloads and sharding your multi-tenant apps.
-* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
-* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
-* [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
-* [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform. (Beta)
-* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
-* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/) - Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.
-
-### Docker images
-* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
-* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
-* [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
