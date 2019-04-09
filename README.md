@@ -10,24 +10,28 @@
 
 ## Contents
 
-- [High-Availability](#high-availability)
-- [Backups](#backups)
-- [GUI](#gui)
-- [Distributions](#distributions)
-- [CLI](#cli)
-- [Server](#server)
-- [Monitoring](#monitoring)
-- [Extensions](#extensions)
-- [Optimization](#optimization)
-- [Utilities](#utilities)
-- [Language bindings](#language-bindings)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [Articles](#articles)
-- [Newsletters](#newsletters)
-- [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
-- [Docker images](#docker-images)
-- [Videos](#videos)
+- [Awesome Postgres](#awesome-postgres-)
+    - [High-Availability](#high-availability)
+    - [Backups](#backups)
+    - [GUI](#gui)
+    - [Distributions](#distributions)
+    - [CLI](#cli)
+    - [Server](#server)
+    - [Monitoring](#monitoring)
+    - [Extensions](#extensions)
+    - [Optimization](#optimization)
+    - [Utilities](#utilities)
+    - [Language bindings](#language-bindings)
+    - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
+    - [Docker images](#docker-images)
+- [Resources](#resources)
+    - [Tutorials](#tutorials)
+    - [Blogs](#blogs)
+    - [Articles](#articles)
+    - [Documentation](#documentation)
+    - [Newsletters](#newsletters)
+    - [Videos](#videos)
+    - [Community](#community)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -61,6 +65,7 @@ For Database Management
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
+* [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
@@ -89,6 +94,8 @@ For Database Management
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [PipelineDB](https://www.pipelinedb.com/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
+* [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
+* [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
@@ -118,6 +125,7 @@ For Database Management
 * [Timescale](https://www.timescale.com/) - Open-source time-series database fully compatible with Postgres, distributed as extension
 * [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 * [HypoPG](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
+* [pgRouting](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
@@ -159,12 +167,16 @@ For Database Management
 * [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
-* [pg-differ](https://github.com/av-dev/postgres-differ) - Tool for easy synchronization of PostgreSQL tables with models (json-schemas), migration alternative
+* [pg-differ](https://github.com/av-dev/postgres-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
+* [graphql-engine](https://github.com/hasura/graphql-engine) - Get Instant Realtime GraphQL APIs over PostgreSQL.
+* [sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
+* Clojure: [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
 * Go: [pgx](https://github.com/jackc/pgx)
+* Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
@@ -174,6 +186,25 @@ For Database Management
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * Lua: [luapgsql](https://github.com/arcapos/luapgsql)
+
+### PaaS *(PostgreSQL as a Service)*
+* [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
+* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
+* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
+* [Citus Cloud](https://www.citusdata.com/product/cloud) - Production grade scaled out PostgreSQL as a service enabling real-time workloads and sharding your multi-tenant apps.
+* [Compose](https://www.compose.com/databases/postgresql) - PostgreSQL as a service in AWS, Google Cloud Platform, and IBM Cloud; plans range from $17.5/month for 1GB storage and scale at $12/GB beyond that. Free trial for 30 days available.
+* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
+* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/) - Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.
+* [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
+* [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform. (Beta)
+* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+
+### Docker images
+* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
+* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
+* [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
+
+## Resources
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
@@ -201,26 +232,20 @@ For Database Management
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.co/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 
+### Documentation
+* [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
+
 ### Newsletters
 
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
-
-### PaaS *(PostgreSQL as a Service)*
-* [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
-* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
-* [Citus Cloud](https://www.citusdata.com/product/cloud) - Production grade scaled out PostgreSQL as a service enabling real-time workloads and sharding your multi-tenant apps.
-* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
-* [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
-* [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
-* [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform. (Beta)
-* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
-
-### Docker images
-* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
-* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
-* [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - Conference videos
+
+### Community
+* [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community. 
+* [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with close to 5000 users
+* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - The most popular IRC channel about Postgres on Freenode with close to 1000 users 
+* [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with close to 10000 users
