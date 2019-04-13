@@ -152,6 +152,8 @@ For Database Management
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
 * [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
+* [pgMustard](https://www.pgmustard.com/) - A modern user interface
+for `EXPLAIN ANALYSE`, that also provides performance tips (Commercial Software).
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
