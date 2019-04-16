@@ -89,6 +89,7 @@ For Database Management
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
+* [nancy](https://gitlab.com/postgres-ai-team/nancy) - The Nancy CLI is a unified way to manage automated database experiments either in clouds or on-premise
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
