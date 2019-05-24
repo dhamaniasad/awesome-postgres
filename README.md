@@ -214,6 +214,7 @@ for `EXPLAIN ANALYSE`, that also provides performance tips (Commercial Software)
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
+* [PostgreSQL Primer for Busy People](https://zaiste.net/postgresql_primer_for_busy_people/) - A collection of the most common commands used in PostgreSQL
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 
 ### Blogs
