@@ -117,7 +117,7 @@ For Database Management
 * [pg\_shard](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions
-* [PipelineDB](https://www.pipelinedb.com/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
+* [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
