@@ -77,7 +77,7 @@ For Database Management
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [temBoard](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 * [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
-* [TeamSQL](https://teamsql.io/) - Cross-platform SQL Client: Simple, Effortless, Extensible.
+* [DataRow](https://datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 * [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 
