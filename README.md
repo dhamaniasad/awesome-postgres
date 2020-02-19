@@ -141,7 +141,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
-* [Hasura](https://hasura.io) - Instant realtime GraphQL APIs on any Postgres application, existing or new.
+* [Hasura-graphql-engine](https://hasura.io) - Instant realtime GraphQL APIs on any Postgres application, existing or new.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
@@ -172,7 +172,6 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
-* [graphql-engine](https://github.com/hasura/graphql-engine) - Get Instant Realtime GraphQL APIs over PostgreSQL.
 * [sqlcheck](https://github.com/jarulraj/sqlcheck-old) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 
