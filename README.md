@@ -180,7 +180,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Clojure: [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
-* Go: [pgx](https://github.com/jackc/pgx)
+* Go: [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx)
 * Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
