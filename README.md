@@ -172,6 +172,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
+* [pg-differ](https://github.com/av-dev/postgres-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
 * [graphql-engine](https://github.com/hasura/graphql-engine) - Get Instant Realtime GraphQL APIs over PostgreSQL.
 * [sqlcheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
