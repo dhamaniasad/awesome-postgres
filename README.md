@@ -136,7 +136,8 @@ For Database Management
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
-* [pgMustard](https://www.pgmustard.com/) - A modern user interface for `EXPLAIN`, that also provides performance tips (Commercial Software).
+* [pgMustard](https://www.pgmustard.com/) - A modern user interface
+for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgtune](https://github.com/gregs1104/pgtune/) - PostgreSQL configuration wizard.
 * [pgtune](https://github.com/le0pard/pgtune) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) - PostgreSQL Online Configuration Tool (also based on pgtune).
