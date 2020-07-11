@@ -212,6 +212,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform. (Beta)
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+* [ScaleChamp PostgreSQL as a Service](https://www.scalechamp.com/postgresql/) - Fully managed PostgreSQL as a Service provided by ScaleChamp on AWS, Hetzner, Azure, Linode, IBM, Scaleway, Alibaba Cloud, DigitalOcean, GCP, UpCloud.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
