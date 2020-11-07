@@ -24,6 +24,7 @@
     - [Language bindings](#language-bindings)
     - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
     - [Docker images](#docker-images)
+    - [Connectors](#connectors)
 - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
@@ -218,6 +219,9 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
+
+### Connectors
+* [Presto](https://prestosql.io) - [Presto PostgreSQL connector](https://prestosql.io/docs/current/connector/postgresql.html) allows running queries spanning PostgreSQL and other services such as Hive, Cassandra, Kafka, cloud object storage, other relational databases, or leveraging multiple PostgreSQL instances at once.
 
 ## Resources
 
