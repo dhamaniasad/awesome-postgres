@@ -117,6 +117,7 @@ For Database Management
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
+* [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
