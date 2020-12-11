@@ -133,6 +133,7 @@ For Database Management
 * [pgTAP](https://pgtap.org/) - Database testing framework for Postgres
 * [HypoPG](https://github.com/HypoPG/hypopg) - HypoPG provides hypothetical/virtual indexes feature.
 * [pgRouting](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
+* [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
 
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
