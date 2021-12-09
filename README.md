@@ -62,6 +62,7 @@
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
+* [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
