@@ -10,7 +10,8 @@
 
 ## Contents
 
-- [Awesome Postgres](#awesome-postgres-)
+- [Awesome Postgres ![awesome](https://github.com/sindresorhus/awesome)](#awesome-postgres-)
+  - [Contents](#contents)
     - [High-Availability](#high-availability)
     - [Backups](#backups)
     - [GUI](#gui)
@@ -22,9 +23,9 @@
     - [Optimization](#optimization)
     - [Utilities](#utilities)
     - [Language bindings](#language-bindings)
-    - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
+    - [PaaS *(PostgreSQL as a Service)*](#paas-postgresql-as-a-service)
     - [Docker images](#docker-images)
-- [Resources](#resources)
+  - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
     - [Articles](#articles)
@@ -260,6 +261,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
+* [PostgreSQL System Architecture](https://medium.com/@alyragab70/postgresql-system-architecture-4bdf519d7aff)
 
 ### Documentation
 * [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
