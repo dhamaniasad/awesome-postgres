@@ -251,6 +251,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Michael Paquier's blog](https://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
+* [Digoal's PostgreSQL blog](https://github.com/digoal/blog/blob/master/README.md) - Digoal's blog.
 
 ### Articles
 
