@@ -98,6 +98,7 @@ For Database Management
 * [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Server
+* [Elephant Shed](https://elephant-shed.io/) - Elephant Shed is a web-based PostgreSQL management front-end that bundles several utilities and applications (like administration, backup, monitoring and logging) for use with PostgreSQL
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
 * [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
