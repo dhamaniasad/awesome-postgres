@@ -272,6 +272,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
 * [Postgres Conference Youtube channel](https://www.youtube.com/channel/UCsJkVvxwoM7R9oRbzvUhbPQ/videos) - Conference videos
 * [Scaling Postgres](https://www.scalingpostgres.com/) - Postgres video blog series by Creston Jamison
+* [Free online courses about PostgreSQL](https://skillcombo.com/topic/postgresql/free/)- list of free courses from all providers
 
 ### Community
 * [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.
