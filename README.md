@@ -222,7 +222,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
-* [Timescale Cloud](https://www.timescale.com) - Timesclaae Cloud offers a production-sclae TimescaleDB enabled Postgresql service.
+* [Timescale Cloud](https://www.timescale.com/timescale-signup) - Timescale Cloud offers a production-scale TimescaleDB enabled PostgreSQL service.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
