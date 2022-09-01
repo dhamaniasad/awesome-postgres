@@ -140,6 +140,7 @@ For Database Management
 * [pgRouting](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
 * [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
+* [login_hook](https://github.com/splendiddata/login_hook) - PostgreSQL extexsion that executes code on session start.
 
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
