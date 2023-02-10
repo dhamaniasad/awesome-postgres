@@ -32,6 +32,7 @@
     - [Newsletters](#newsletters)
     - [Videos](#videos)
     - [Community](#community)
+    - [Roadmaps](#roadmaps)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -280,3 +281,6 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with over 7000 users
 * Telegram - Several groups for PostgreSQL in different langauges: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) ~1000 people, [English](https://t.me/postgreschat) >750 people
 * [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
+
+### Roadmaps
+* [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - Step wise guide to PostgreSQL
