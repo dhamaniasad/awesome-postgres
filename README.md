@@ -283,4 +283,4 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
 
 ### Roadmaps
-* [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - Step wise guide to PostgreSQL
+* [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
