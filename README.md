@@ -272,6 +272,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Newsletters
 
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
+* [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
