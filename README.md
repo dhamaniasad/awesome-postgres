@@ -303,6 +303,11 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
 * [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
 
+### Podcasts
+* [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
+* [Scaling Postgres](https://www.scalingpostgres.com/) - Weekly roundups of PostgreSQL related content.
+* [Path to Citus Con](https://www.citusdata.com/podcast/path-to-citus-con/) - Monthly interviews with people in the Postgres world.
+
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - Citus related videos
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB related videos
