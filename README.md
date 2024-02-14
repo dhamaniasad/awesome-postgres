@@ -266,6 +266,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 * [Tricking Postgres into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
 
+* [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
+
 ### Documentation
 * [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
 
