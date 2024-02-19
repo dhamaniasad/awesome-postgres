@@ -124,6 +124,8 @@ For Database Management
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
+ * [pg_analytics](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+* [pg_bm25](https://github.com/paradedb/paradedb/tree/dev/pg_bm25) - pg_bm25 is a PostgreSQL extension that enables full text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
@@ -144,8 +146,6 @@ For Database Management
 * [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
-* [pg_bm25](https://github.com/paradedb/paradedb/tree/dev/pg_bm25) - pg_bm25 is a PostgreSQL extension that enables full text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
-* [pg_analytics](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
@@ -235,8 +235,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
+* [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB officla image with ParadeDB extensions (pg_bm25, pg_analytics).
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
-* [ParadeDB](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB officla image with ParadeDB extensions (pg_bm25, pg_analytics).
 
 ## Resources
 
