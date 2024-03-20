@@ -230,6 +230,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 * [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+* [MindsDB](https://mindsdb.com/) - An open-source platform for customizing AI from enterprise data. You can deploy, serve, and continuously fine-tune AI models in real-time from your database, vector store, and application data. MindsDB enhances SQL syntax with commands that facilitate deployment and management of AI models, making AI accessible for developers. Furthermore, MindsDB provides other development environments, including Python and JavaScript SDKs and APIs. Find out [how PostgreSQL integrates with MindsDB](https://docs.mindsdb.com/integrations/data-integrations/postgresql).
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
