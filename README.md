@@ -167,6 +167,9 @@
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 * [ParadeDB](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
+### Work Queues
+* [BeanQueue](https://github.com/LaunchPlatform/bq) - A lightweight Python work queue framework based on [SQLAlchemy](https://www.sqlalchemy.org/), PostgreSQL [SKIP LOCKED queries](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/) and [NOTIFY](https://www.postgresql.org/docs/current/sql-notify.html) / [LISTEN](https://www.postgresql.org/docs/current/sql-listen.html) statements
+
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
