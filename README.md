@@ -280,6 +280,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Documentation
 * [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
+* [pgPedia](https://pgpedia.info/) - An encyclopedia of things related to postgreSQL.
 
 ### Newsletters
 
