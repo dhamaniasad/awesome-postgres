@@ -57,6 +57,7 @@
 
 ### GUI
 * [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
+* [Bytebase](https://www.bytebase.com) - Database CI/CD for DevOps teams.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 * [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
 * [Count](https://count.co/) - Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).
