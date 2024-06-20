@@ -72,6 +72,7 @@
 * [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
 For Database Management
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
+* [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
