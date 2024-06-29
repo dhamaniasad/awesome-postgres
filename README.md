@@ -148,6 +148,9 @@ For Database Management
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 
+### Work Queues
+* [BeanQueue](https://github.com/LaunchPlatform/bq) - A lightweight Python work queue framework based on [SQLAlchemy](https://www.sqlalchemy.org/), PostgreSQL [SKIP LOCKED queries](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/) and [NOTIFY](https://www.postgresql.org/docs/current/sql-notify.html) / [LISTEN](https://www.postgresql.org/docs/current/sql-listen.html) statements
+
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
