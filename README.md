@@ -336,6 +336,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Slack](https://pgtreats.info/slack-invite) - Slack workspace for Postgres with over 20k members
 * Telegram - Several groups for PostgreSQL in different languages: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) ~1000 people, [English](https://t.me/postgreschat) >750 people
 * [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
+* [Discord](https://discord.gg/bW2hsax8We) - A Discord server for Postgres with over 6k members
 
 ### Roadmaps
 * [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
