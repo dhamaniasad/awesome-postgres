@@ -147,7 +147,7 @@ For Database Management
 * [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
-* [NServiceBus.Transport.PostgreSql] - The NServiceBus.Transport.PostgreSql library allows .NET developers to use a PostgreSQL database as a message broker.
+* [NServiceBus.Transport.PostgreSql](https://docs.particular.net/transports/postgresql) - The NServiceBus.Transport.PostgreSql library allows .NET developers to use a PostgreSQL database as a message broker.
 
 ### Optimization
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
