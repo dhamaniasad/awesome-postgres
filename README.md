@@ -208,6 +208,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgspot](https://github.com/timescale/pgspot) - Spot vulnerabilities in PostgreSQL extension scripts.
+* [pg-spot-operator](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
