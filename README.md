@@ -203,6 +203,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
 * [pg-ldap-sync](https://github.com/larskanis/pg-ldap-sync) - This program helps to solve the issue by synchronizing users, groups and their memberships from LDAP to PostgreSQL
+* [pgldapsync](https://github.com/EnterpriseDB/pgldapsync) - Python module that allows you to synchronize Postgres login roles with users in an LDAP directory
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
