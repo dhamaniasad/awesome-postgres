@@ -217,7 +217,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
 * R: [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL)
 * Ruby: [pg](https://github.com/ged/ruby-pg)
-* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres), [pgx](https://github.com/tcdi/pgx)
+* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres), [pgx](https://github.com/tcdi/pgx), [wtx](https://github.com/c410-f3r/wtx)
 * Lua: [luapgsql](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
