@@ -32,6 +32,7 @@
     - [Newsletters](#newsletters)
     - [Videos](#videos)
     - [Community](#community)
+    - [Roadmaps](#roadmaps)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - BiDirectional Replication - a multimaster replication system for PostgreSQL
@@ -88,8 +89,10 @@ For Database Management
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
 * [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
+* [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### CLI
+* [atlas](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [pgsh](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
@@ -102,6 +105,7 @@ For Database Management
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
 * [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
 * [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
+* [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
@@ -117,11 +121,15 @@ For Database Management
 * [opm.io](http://opm.io) -  Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It can gather stats, display dashboards and send warnings when something goes wrong.
 * [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 * [dexter](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+* [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Extensions
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
+* [pg_analytics](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+* [pg_lakehouse](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse) - pg_lakehouse is an extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg.
+* [pg_search](https://github.com/paradedb/paradedb/tree/dev/pg_search) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
@@ -141,8 +149,10 @@ For Database Management
 * [pgRouting](https://github.com/pgRouting/pgrouting) - pgRouting extends the PostGIS/PostgreSQL geospatial database to provide geospatial routing and other network analysis functionality.
 * [PGroonga](https://pgroonga.github.io/) - PGroonga provides a new index access method that uses Groonga allowing super fast full text search feature against all languages.
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
+* [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 
 ### Optimization
+* [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
@@ -153,6 +163,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PoWA](https://powa.readthedocs.io/en/latest/) - PostgreSQL Workload Analyzer gathers performance stats and provides real-time charts and graphs to help monitor and tune your PostgreSQL servers.
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) - Web UI to view pg_stat_statements.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
+* [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
@@ -176,6 +187,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
+* [pgspot](https://github.com/timescale/pgspot) - Spot vulnerabilities in PostgreSQL extension scripts.
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
@@ -209,7 +221,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
 * R: [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL)
 * Ruby: [pg](https://github.com/ged/ruby-pg)
-* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres)
+* Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres), [pgx](https://github.com/tcdi/pgx), [wtx](https://github.com/c410-f3r/wtx)
 * Lua: [luapgsql](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -219,15 +231,18 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/) - Fully managed Postgres from the Postgres experts. Available across all major cloud providers: Amazon AWS, Google GCP, Microsoft Azure. No lock-in with full super-user support.
 * [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/) - Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.
-* [ElephantSQL](https://www.elephantsql.com/) - Offers databases ranging from shared servers for smaller projects and proof of concepts, up to enterprise grade multi server setups. Has free plan for up to 5 DBs, 20 MB each.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+* [OVHcloud Cloud Databases](https://www.ovhcloud.com/en/public-cloud/databases/) - Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.
 * [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
+* [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
+* [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
+* [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg_search and pg_analytics Postgres extensions.
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
 ## Resources
@@ -251,6 +266,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Michael Paquier's blog](https://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
+* [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
 
 ### Articles
 
@@ -262,8 +278,14 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 * [Tricking Postgres into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
 
+
+### Books
+* [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
+
+
 ### Documentation
 * [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
+* [pgPedia](https://pgpedia.info/) - An encyclopedia of things related to postgreSQL.
 
 ### Newsletters
 
@@ -279,5 +301,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.
 * [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with over 12000 users
 * [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with over 7000 users
-* Telegram - Several groups for PostgreSQL in different langauges: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) ~1000 people, [English](https://t.me/postgreschat) >750 people
+* Telegram - Several groups for PostgreSQL in different languages: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) ~1000 people, [English](https://t.me/postgreschat) >750 people
 * [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
+
+### Roadmaps
+* [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
