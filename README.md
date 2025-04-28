@@ -151,7 +151,7 @@ For Database Management
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 
 ### Optimization
-* [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool.
+* [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
