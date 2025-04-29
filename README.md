@@ -68,6 +68,7 @@
 * [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
+* [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 * [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
