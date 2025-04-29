@@ -24,7 +24,7 @@
     - [Language bindings](#language-bindings)
     - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
     - [Docker images](#docker-images)
-  - [Resources](#resources)
+- [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
     - [Articles](#articles)
