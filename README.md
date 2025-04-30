@@ -19,6 +19,7 @@
     - [Server](#server)
     - [Monitoring](#monitoring)
     - [Extensions](#extensions)
+    - [Work Queues](#work-queues)
     - [Optimization](#optimization)
     - [Utilities](#utilities)
     - [Language bindings](#language-bindings)
@@ -168,7 +169,7 @@
 * [ParadeDB](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
 ### Work Queues
-* [BeanQueue](https://github.com/LaunchPlatform/bq) - A lightweight Python work queue framework based on [SQLAlchemy](https://www.sqlalchemy.org/), PostgreSQL [SKIP LOCKED queries](https://www.2ndquadrant.com/en/blog/what-is-select-skip-locked-for-in-postgresql-9-5/) and [NOTIFY](https://www.postgresql.org/docs/current/sql-notify.html) / [LISTEN](https://www.postgresql.org/docs/current/sql-listen.html) statements
+* [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
