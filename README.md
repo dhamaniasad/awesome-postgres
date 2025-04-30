@@ -329,6 +329,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
+* [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - A free e-book by Hironobu Suzuki
 
 
 ### Documentation
