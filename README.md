@@ -33,6 +33,7 @@
     - [Videos](#videos)
     - [Community](#community)
     - [Roadmaps](#roadmaps)
+    - [External lists](#external-lists)
 
 ### High-Availability
 * [autobase](https://github.com/vitabaks/autobase) - Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
@@ -345,3 +346,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Roadmaps
 * [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba) - A roadmap providing step wise guide to PostgreSQL.
+
+### External lists
+* [Wikipedia admin tools list](https://en.wikipedia.org/wiki/Comparison_of_database_tools) - Comparison of database administration tools on Wikipedia
+* [PostgreSQL Wiki GUI tools list](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - Community Guide to PostgreSQL GUI Tools
