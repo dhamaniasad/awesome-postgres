@@ -24,6 +24,7 @@
     - [Language bindings](#language-bindings)
     - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
     - [Docker images](#docker-images)
+    - [Kubernetes](#kubernetes)
 - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
@@ -277,6 +278,15 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) - PostGIS 2.3 on Postgres 9. Based on the official Postgres container.
 * [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg_search and pg_analytics Postgres extensions.
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
+
+### Kubernetes
+* [Crunchy Operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+* [Fujitsu Enterprise Postgres for Kubernetes](https://www.postgresql.fastware.com/) - Enterprise-grade PostgreSQL on OpenShift Container Platform (Commercial Software).
+* [Kubegres Operator](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
+* [StackGres Operator](https://github.com/ongres/stackgres/) -  Full Stack PostgreSQL on Kubernetes.
+* [Zalando Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
+* [CloudNativePG operator](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
+* [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
 
 ## Resources
 
