@@ -234,6 +234,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software). 
 * [planter][https://github.com/achiku/planter] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
+* [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
