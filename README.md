@@ -24,6 +24,7 @@
     - [Language bindings](#language-bindings)
     - [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
     - [Docker images](#docker-images)
+    - [Kubernetes](#kubernetes)
 - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
@@ -52,6 +53,7 @@
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 * [pgBackRest](https://pgbackrest.org/)  - Reliable PostgreSQL Backup & Restore.
+* [pgbackweb](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI. 
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 * [pghoard](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
 * [wal-e](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
@@ -150,6 +152,7 @@
 * [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pgcat](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
+* [pg\_barcode](https://github.com/btouchard/pg_barcode/) - PostgreSQL SVG QRcode & Datamatrix generator.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 * [pg\_shard](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
@@ -174,6 +177,7 @@
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
+* [PEV2](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
@@ -185,6 +189,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) - Web UI to view pg_stat_statements.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 * [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
+* [aqo](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
@@ -196,6 +201,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [migra](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
+* [NServiceBus.Transport.PostgreSql](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 * [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
@@ -245,6 +251,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Go: [pq](https://github.com/lib/pq), [pgx](https://github.com/jackc/pgx), [go-pg](https://github.com/go-pg/pg)
 * Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/), [Vert.x PostgreSQL Client](https://vertx.io/docs/vertx-pg-client/java/)
+* Lua: [luapgsql](https://github.com/arcapos/luapgsql)
 * .Net/.Net Core: [Npgsql](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi), [slonik](https://github.com/gajus/slonik), [postgres](https://github.com/porsager/postgres)
 * Perl: [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
@@ -253,7 +260,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * R: [RPostgres](https://github.com/r-dbi/RPostgres), [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL)
 * Ruby: [pg](https://github.com/ged/ruby-pg)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres), [pgx](https://github.com/tcdi/pgx), [wtx](https://github.com/c410-f3r/wtx)
-* Lua: [luapgsql](https://github.com/arcapos/luapgsql)
+* TypeScript: [zapatos](https://github.com/jawj/zapatos)
 * Zig: [pg.zig](https://github.com/karlseguin/pg.zig)
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -279,10 +286,20 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [paradedb/paradedb](https:/hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the Bitnami Postgres container with pg_search and pg_analytics Postgres extensions.
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
 
+### Kubernetes
+* [Crunchy Operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+* [Fujitsu Enterprise Postgres for Kubernetes](https://www.postgresql.fastware.com/) - Enterprise-grade PostgreSQL on OpenShift Container Platform (Commercial Software).
+* [Kubegres Operator](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
+* [StackGres Operator](https://github.com/ongres/stackgres/) -  Full Stack PostgreSQL on Kubernetes.
+* [Zalando Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
+* [CloudNativePG operator](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
+* [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
+
 ## Resources
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
+* [Operations cheat sheet](https://wiki.postgresql.org/wiki/Operations_cheat_sheet) - Operations cheat sheet from PostgreSQL Wiki.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
@@ -317,6 +334,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
+* [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - A free e-book by Hironobu Suzuki
+* [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) - A free e-book by Egor Rogov
 
 
 ### Documentation
