@@ -179,6 +179,7 @@
 ### Work Queues
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
 * [pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+* [river](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
