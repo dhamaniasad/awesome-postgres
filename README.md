@@ -110,6 +110,7 @@
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 * [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
+* [pdot](https://gitlab.com/dmfay/pdot) - Visualize and explore database structures in your shell, from high-context views of the foreign key graph to trigger cascades, role inheritance and permissions, and many more
 
 ### Server
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
