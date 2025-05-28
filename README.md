@@ -326,7 +326,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
-* [Digoal's Blog](https://github.com/digoal/blog/blob/master/README.md) - Digoal is employed at Alibaba Cloud, has been writing about PostgreSQL for decades, and with rich content, is currently the most popular Chinese PostgreSQL blog.
+* [Digoal's Blog(Chinese Language)](https://github.com/digoal/blog/blob/master/README.md) - Digoal is employed at Alibaba Cloud, has been writing about PostgreSQL for decades, and with rich content, is currently the most popular Chinese PostgreSQL blog.
 
 ### Articles
 
