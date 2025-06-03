@@ -48,7 +48,7 @@
 * [PAF](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 * [SkyTools](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
 * [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
-* [pgrwl](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time.
+* [pgrwl](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg_receivewal.
 
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
