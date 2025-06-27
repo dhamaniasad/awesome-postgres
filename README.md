@@ -198,6 +198,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 * [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
 * [aqo](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
+* [pgassistant](https://github.com/nexsol-technologies/pgassistant) - A DB optimization dashboard for PostgreSQL with LLM and pgTune integration.
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
