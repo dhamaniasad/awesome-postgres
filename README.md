@@ -338,7 +338,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 * [Tricking Postgres into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
-
+* [How to Automate PostgreSQL Backup to Amazon S3](https://cloudray.io/articles/automate-postgres-backup-to-amazon-s3)
+* [Setting Up a PostgreSQL Database on a Remote Server](https://cloudray.io/articles/setting-up-postgres-database)
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
