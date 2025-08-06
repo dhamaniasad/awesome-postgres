@@ -29,7 +29,6 @@
 - [Resources](#resources)
     - [Tutorials](#tutorials)
     - [Blogs](#blogs)
-    - [Articles](#articles)
     - [Documentation](#documentation)
     - [Newsletters](#newsletters)
     - [Videos](#videos)
@@ -330,14 +329,6 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 * [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
 * [Digoal's PostgreSQL and Technical blog(Chinese Language)](https://github.com/digoal/blog/blob/master/README.md) 
-
-### Articles
-
-* [the ultimate postgres vs mysql blog post](https://di.nmfay.com/postgres-vs-mysql)
-* [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
-* [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
-* [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
-* [Tricking Postgres into using an insane – but 200x faster – query plan](https://spacelift.io/blog/tricking-postgres-into-using-query-plan)
 
 
 ### Books
