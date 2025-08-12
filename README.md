@@ -181,6 +181,10 @@
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
 * [pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 * [river](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
+* [pgBoss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss.
+* [dbos](https://www.dbos.dev/) - Durable workflows in Typescript and Python
+* [Graphile Worker](https://worker.graphile.org) - A high performance job queue for PostgreSQL, written in Node.js
+* [@andyrmitchell/pg-queue](https://www.npmjs.com/package/@andyrmitchell/pg-queue) - The 'No Maintenance' Postgres Queue for Node.js
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
