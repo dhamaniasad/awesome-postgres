@@ -352,6 +352,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 ### Documentation
 * [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - user documentation, how-tos, and tips 'n' tricks
 * [pgPedia](https://pgpedia.info/) - An encyclopedia of things related to postgreSQL.
+* [create_pg_super_document](https://ryogrid.github.io/create_pg_super_document/index.html) - A poject that aim to generate documentation for all symbols in the PostgreSQL codebase using AI agents
 
 ### Newsletters
 
