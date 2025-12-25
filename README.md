@@ -19,6 +19,7 @@
     - [Server](#server)
     - [Monitoring](#monitoring)
     - [Extensions](#extensions)
+    - [Platforms](#platforms)
     - [Work Queues](#work-queues)
     - [Optimization](#optimization)
     - [Utilities](#utilities)
@@ -185,7 +186,6 @@
 * [ParadeDB](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
 ### Platforms
-*PostgreSQL-based platforms and integrated solutions*
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
 
 ### Work Queues
