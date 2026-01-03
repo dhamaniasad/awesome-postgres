@@ -187,6 +187,7 @@
 
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
+* [Vedika API](https://vedika.io) - B2B Vedic astrology API platform powered by PostgreSQL, providing 108+ endpoints for data-heavy applications. Features AI chatbot, multi-language support, and swarming intelligence. Open-source Python and JavaScript SDKs available.
 
 ### Work Queues
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
