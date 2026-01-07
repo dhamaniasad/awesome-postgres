@@ -289,7 +289,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * Zig: [pg.zig](https://github.com/karlseguin/pg.zig)
 
 ### PaaS *(PostgreSQL as a Service)*
-* [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
+* [Aiven for PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud. Starting at just $0 a month, prices vary based on the number of nodes and your storage needs. Hourly billing saves you money. Change your plan anytime at no extra cost. Basic support is included in all the paid plans.
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
 * [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/) - Fully managed Postgres from the Postgres experts. Available across all major cloud providers: Amazon AWS, Google GCP, Microsoft Azure. No lock-in with full super-user support.
