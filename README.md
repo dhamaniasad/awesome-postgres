@@ -60,6 +60,7 @@
 * [pgbackweb](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI. 
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 * [pghoard](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
+* [Portabase](https://portabase.io/) - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration. ([Source Code](https://github.com/Portabase/portabase))
 * [postgres-backup-oss](https://github.com/isaced/postgres-backup-oss) - A handy Docker container to periodically backup PostgreSQL to Alibaba Cloud Object Storage Service (OSS)
 * [wal-e](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
 * [wal-g](https://github.com/wal-g/wal-g) - The successor of WAL-E rewritten in Go. Currently supports cloud object storage services by AWS (S3), Google Cloud (GCS), Azure, as well as OpenStack Swift, MinIO, and file system storages. Supports block-level incremental backups, offloading backup tasks to a standby server, provides parallelization and throttling options. In addition to Postgres, WAL-G can be used for MySQL and MongoDB databases.
