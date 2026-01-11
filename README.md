@@ -290,21 +290,53 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql) - PostgreSQL as a service in AWS, Azure, DigitalOcean, Google Cloud and UpCloud; plans range from $19/month single node instances to large highly-available setups, free trial for two weeks.
-* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL
+* [Akamai Cloud (Linode) Managed PostgreSQL](https://www.linode.com/docs/guides/databases/postgresql/) - Managed PostgreSQL on Akamai/Linode with automated provisioning, backups, and maintenance.
+* [Alibaba Cloud ApsaraDB RDS for PostgreSQL](https://www.alibabacloud.com/en/product/apsaradb-for-rds-postgresql) - An on-demand database hosting service for PostgreSQL with automated monitoring, backup and disaster recovery capabilities.
+* [Alibaba Cloud PolarDB for PostgreSQL](https://www.alibabacloud.com/en/product/polardb-for-postgresql) - Cloud-Native Super PostgreSQL – 100% compatible with Postgres ecosystem, supports Oracle syntax and native multi-model features (vector/document/key-value), scales in seconds with financial-grade high availability, an intelligent database for AI-era mission-critical workloads.
+* [Amazon Aurora PostgreSQL](https://aws.amazon.com/rds/aurora/) - Amazon Aurora PostgreSQL is a fully managed, PostgreSQL–compatible, and ACID–compliant relational database engine that combines the speed, reliability, and manageability of Amazon Aurora with the simplicity and cost-effectiveness of open-source databases. Aurora is part of the managed database service Amazon Relational Database Service (Amazon RDS).
+* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) - Amazon Relational Database Service (RDS) for PostgreSQL.
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/) - Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service. It provides builtin HA, elastic scaling and native integration with Azure ecosystem.
+* [Civo Managed Databases](https://www.civo.com/databases) - A powerful and scalable managed database service at an affordable price.
+* [Cloud.ru Evolution Managed PostgreSQL](https://cloud.ru/products/evolution-managed-postgresql) - Managed PostgreSQL service on Cloud.ru Evolution for running PostgreSQL clusters.
 * [Crunchy Bridge](https://www.crunchydata.com/products/crunchy-bridge/) - Fully managed Postgres from the Postgres experts. Available across all major cloud providers: Amazon AWS, Google GCP, Microsoft Azure. No lock-in with full super-user support.
 * [Database Labs](https://www.databaselabs.io) - Get a production-ready cloud PostgreSQL server in minutes, from $20 a month Backups, monitoring, patches, and 24/7 tech support all included.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/) - Fully managed PostgreSQL databases. No free plan. Starting at $15/mo. Daily backups with point-in-time recovery. Standby nodes with auto-failover.
+* [EDB Postgres AI](https://www.enterprisedb.com/products/edb-postgres-ai) - EDB PG AI is the most flexible way to deploy production-ready Postgres in your sovereign environment—cloud, multi-cloud, on-premises, or hybrid. Bring your proprietary data to your AI future, on your own terms, with a single solution to accelerate innovation.
+* [Fly.io Managed Postgres](https://fly.io/mpg) - Managed Postgres is our fully-managed database service that handles every aspect of running production PostgreSQL databases.
+* [Google Cloud AlloyDB for PostgreSQL](https://cloud.google.com/products/alloydb) - 100% PostgreSQL-compatible database that runs anywhere. AlloyDB is more than 4x faster for transactional workloads and provides up to 2x better price-performance compared to self-managed PostgreSQL.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
+* [Huawei Cloud GaussDB](https://www.huaweicloud.com/intl/en-us/product/gaussdb.html) - Managed distributed relational database service from Huawei Cloud (includes PostgreSQL-compatible options).
+* [Huawei Cloud RDS for PostgreSQL](https://www.huaweicloud.com/intl/en-us/product/pg.html) - A fully-managed, PostgreSQL-compatible, relational database that is easy to set up, run, and scale.
+* [IBM Cloud Databases for PostgreSQL](https://www.ibm.com/products/databases-for-postgresql) - IBM Cloud Databases for PostgreSQL is a fully managed service enabling you to efficiently create sophisticated, high-performance applications with enhanced JSON support and improved query parallelism.
+* [Instaclustr Managed PostgreSQL](https://www.instaclustr.com/platform/managed-postgresql/) - Instaclustr customizes and optimizes the configuration of PostgreSQL (also known as Postgres) instances on all major cloud providers and on-premises data centers.
+* [MWS Managed PostgreSQL](https://mws.ru/cloud-platform/managed-postgresql/) - Managed PostgreSQL service with automated backups and failover.
+* [Nebius Managed Service for PostgreSQL](https://nebius.com/services/managed-postgresql) - A fully managed object-relational database for ML development and AI applications.
+* [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
+* [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL. Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
+* [Northflank Managed PostgreSQL](https://northflank.com/dbaas/managed-postgresql) - Easily spin up a PostgreSQL cluster and only pay for the resources you consume. Northflank automates patching, backups, scaling, and monitoring.
+* [Oracle Cloud (OCI) Database for PostgreSQL](https://www.oracle.com/in/cloud/postgresql/) - Oracle's managed PostgreSQL service built on Oracle Cloud Infrastructure with optimized storage and performance.
 * [OVHcloud Cloud Databases](https://www.ovhcloud.com/en/public-cloud/databases/) - Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.
+* [pgEdge](https://www.pgedge.com/) - Enterprise-grade PostgreSQL with multi-region replication and high availability.
+* [PlanetScale for Postgres](https://planetscale.com/postgres) - Fully managed PostgreSQL clusters with high availability and developer-focused workflows, available on AWS and GCP.
+* [Railway PostgreSQL](https://docs.railway.com/guides/postgresql) - The Railway PostgreSQL database template allows you to provision and connect to a PostgreSQL database with zero configuration.
 * [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
 * [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
 * [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
+* [Scalingo for PostgreSQL](https://scalingo.com/dbaas/postgresql) - Fully managed, highly-available PostgreSQL for application platforms.
+* [Selectel Cloud for PostgreSQL](https://selectel.ru/services/cloud/managed-databases/postgresql/) - Managed PostgreSQL service by Selectel with backups, monitoring, and scaling.
+* [Stackhero for PostgreSQL](https://www.stackhero.io/en-US/services/PostgreSQL/benefits) - Managed PostgreSQL optimized for performance and security, deployable in minutes.
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
-* [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.
-* [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
+* [Tencent Cloud TencentDB for PostgreSQL](https://www.tencentcloud.com/products/postgres) - Managed PostgreSQL service with automated installation, replication, backups, and scaling.
+* [Tiger Data Postgres](https://www.tigerdata.com/) - PostgreSQL cloud platform for high-load, real-time, and distributed workloads.
+* [Timeweb Cloud Managed Service for PostgreSQL](https://timeweb.cloud/services/postgresql) - Managed PostgreSQL service from Timeweb Cloud.
+* [UpCloud Managed Databases for PostgreSQL](https://upcloud.com/postgresql-managed-databases/) - Managed PostgreSQL with automated replication, backups, and predictable pricing.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
+* [Virtuozzo PostgreSQL](https://www.virtuozzo.com/database-platform-as-a-service/) - Automated PostgreSQL provisioning, clustering, scaling, and updates in hybrid and multi-cloud.
+* [VK Cloud PostgreSQL as a Service](https://cloud.vk.com/databases/postgresql/) - Managed PostgreSQL offering within VK Cloud's database services.
+* [Vultr PostgreSQL Databases](https://www.vultr.com/products/managed-databases/postgresql/) - Highly available and secure managed PostgreSQL databases.
+* [Xata](https://xata.io/) - PostgreSQL with instant branching and anonymized production data for fast development.
+* [Yandex Cloud Managed Service for PostgreSQL](https://yandex.cloud/en/services/managed-postgresql) - Managed PostgreSQL clusters in Yandex Cloud infrastructure.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
