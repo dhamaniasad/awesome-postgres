@@ -320,6 +320,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Zalando Operator](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
 * [CloudNativePG operator](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
 * [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
+* [Percona PostgreSQL Operator](https://github.com/percona/percona-postgresql-operator) - Percona Operator for PostgreSQL based on Crunchy Data operator.
+* [Percona Everest Operator](https://github.com/percona/everest-operator) - Everest Operator is a Kubernetes Operator responsible for managing the lifecycle of MySQL, MongoDB, and PostgreSQL databases. It leverages Percona's Kubernetes Operators for MySQL, MongoDB, and PostgreSQL under the hood but provides a unified API and a single pane of glass for managing all three database types.
 
 ## Resources
 
