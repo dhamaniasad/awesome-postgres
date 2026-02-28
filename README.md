@@ -228,6 +228,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [migra](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
+* [migrationpilot](https://github.com/mickelsamuel/migrationpilot) - CLI and GitHub Action that analyzes PostgreSQL migrations for lock hazards, unsafe operations, and risk scoring with 80 safety rules.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [NServiceBus.Transport.PostgreSql](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
