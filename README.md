@@ -153,6 +153,7 @@
 * [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 * [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 * [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
+* [ReleaseRun Vulnerability Scanner](https://releaserun.com/tools/vulnerability-scanner/) - Free tool that checks your PostgreSQL version against EOL dates, known CVEs, and support status. Covers all major versions from 10 through 18 with health grades and upgrade recommendations.
 
 ### Extensions
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions.
