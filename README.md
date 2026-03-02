@@ -233,6 +233,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 * [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
+* [pg-safe-migrate](https://github.com/defnotwig/pg-safe-migrate) - Safety-first Node.js migration engine with advisory locks, SHA-256 drift detection, and 10 built-in lint rules for PostgreSQL.
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software).
 * [pgbadger](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
 * [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
