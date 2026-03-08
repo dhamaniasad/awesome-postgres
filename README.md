@@ -365,6 +365,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - A free e-book by Hironobu Suzuki
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) - A free e-book by Egor Rogov
+* [Lift the Elephant](https://leanpub.com/lift-the-elephant) - A practical guide to scaling Postgres in production, covering tuning, connection pooling, partitioning, and high availability.
 
 
 ### Documentation
