@@ -340,6 +340,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - A collection of the most common commands used in PostgreSQL
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+* [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
