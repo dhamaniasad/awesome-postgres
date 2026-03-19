@@ -58,6 +58,7 @@
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 * [pgBackRest](https://pgbackrest.org/)  - Reliable PostgreSQL Backup & Restore.
+* [resistro](https://resistro.org) - Open-source backup tool for PostgreSQL with AES-256 encryption, scheduling, retention policies, deduplication, Point-in-Time Recovery, and Prometheus metrics. Single binary, written in Go.
 * [pgbackweb](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI. 
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 * [pghoard](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
