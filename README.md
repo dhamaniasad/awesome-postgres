@@ -106,6 +106,7 @@
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 * [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 * [WebDB](https://webdb.app) – Efficient Database IDE.
+* [Yaw](https://yaw.sh) - Cross-platform terminal with built-in PostgreSQL client, SSH client, and connection manager.
 
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
