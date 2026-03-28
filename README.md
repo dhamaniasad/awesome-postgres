@@ -157,6 +157,7 @@
 * [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 * [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
 
+- [ReleaseRun](https://releaserun.com) — release monitoring for PostgreSQL — tracks active release versions, EOL dates, and security patch windows for PostgreSQL major versions
 ### Extensions
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions.
 * [Extensions listing by joelonsql](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47) - 1000+ PostgreSQL extensions.
