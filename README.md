@@ -349,6 +349,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
 
 ### Blogs
+* [Enabling Vector Search in Aiven for PostgreSQL® with pgvector](https://aiven.io/blog/aiven-for-postgres-supports-pgvector) - Aiven blog.
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL/)
 * [Bruce Momjian's PostgreSQL blog](https://momjian.us/main/blogs/pgblog.html)
