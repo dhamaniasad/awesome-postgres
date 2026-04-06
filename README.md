@@ -8,6 +8,7 @@
 
  :elephant: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) or create an [issue](https://github.com/dhamaniasad/awesome-postgres/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for database-driven multi-agent orchestration with task registry, automated monitoring, and data pipeline management. MIT licensed.
 ## Contents
 
 - [Awesome Postgres](#awesome-postgres-)
