@@ -8,6 +8,7 @@
 
  :elephant: Contributions welcome. Add links through [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) or create an [issue](https://github.com/dhamaniasad/awesome-postgres/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=dhamaniasad_awesome-postgres) - Follow database engineers on GitHub and see what DB tools and ORMs they are checking out.
 ## Contents
 
 - [Awesome Postgres](#awesome-postgres-)
