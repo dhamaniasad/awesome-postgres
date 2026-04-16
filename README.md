@@ -379,6 +379,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 * [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
 * [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
+* [pgsql-hackers Weekly Digest](https://ryogrid.net/pgsql-hackers-digest/) - Weekly digest of the pgsql-hackers mailing list that provides a list of active threads, thread summaries, and more.
 
 ### Podcasts
 * [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
