@@ -77,7 +77,7 @@
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
-* [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+* [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE with migration, federated SQL, and CDC replication for PostgreSQL, MySQL, files, and S3-compatible storage. (Commercial Software).
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbForge Edge](https://www.devart.com/dbforge/edge/) - All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
