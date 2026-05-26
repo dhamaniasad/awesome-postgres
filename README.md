@@ -178,6 +178,7 @@
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
 * [pg_search](https://github.com/paradedb/paradedb) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
+* [psql_bm25s](https://github.com/Intelligent-Internet/psql_bm25s) - PostgreSQL extension for BM25-family lexical retrieval with a native index access method and SQL top-k query APIs.
 * [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pgcat](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
