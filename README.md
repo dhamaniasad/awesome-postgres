@@ -229,6 +229,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others.
+* [Foxschema](https://foxschema.com) - Compares PostgreSQL schemas and generates database migrations, available as a web app, desktop app, or self-hosted.
 * [GatewayD](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 * [Greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
 * [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
