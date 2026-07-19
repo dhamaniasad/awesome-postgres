@@ -223,6 +223,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
 * [aqo](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
 * [pgassistant](https://github.com/beh74/pgassistant-community) - A PostgreSQL tool for developers to help understand, optimize database with LLM and pgTune integration.  
+* [sqlike](https://github.com/orifisher2/sqlike) - Deterministic SQL analyzer and query-equivalence checker (anti-patterns, rewrites, index advice) for Postgres, MySQL, SQLite, and SQL Server. Web, CLI, and MCP.
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
