@@ -197,6 +197,7 @@
 
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
+* [GeoLens](https://github.com/geolens-io/geolens) - Self-hosted geospatial catalog and map builder on PostGIS, with pgvector semantic search and a job queue that runs inside Postgres.
 
 ### Work Queues
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
