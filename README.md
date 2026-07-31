@@ -51,6 +51,7 @@
 * [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 * [pgrwl](https://github.com/hashmap-kz/pgrwl) - Stream write-ahead logs (WAL) from a PostgreSQL server in real time. A drop-in, container-friendly alternative to pg_receivewal.
 * [pg-status](https://github.com/krylosov-aa/pg-status) - A microservice that provides HTTP endpoints for instantly retrieving the current master host or a replica that meets various criteria.
+* [pg_replica](https://github.com/hyperiondb/hyperiondb) - Easily scalable PostgreSQL with raft quorum protocol extension
 
 ### Backups
 * [Barman](https://www.pgbarman.org/index.html) - Backup and Recovery Manager for PostgreSQL by 2ndQuadrant.
