@@ -164,6 +164,8 @@
 * [Extensions listing by joelonsql](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47) - 1000+ PostgreSQL extensions.
 * [Pigsty extensions catalogue](https://ext.pigsty.io/list/) - 400+ PostgreSQL extensions.
 * [AGE](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+* [koldstore](https://github.com/kalamdb/koldstore) - Open-source PostgreSQL tiered-storage extension: keep hot rows in the heap, flush history to Parquet, query one table ([kalamdb.org/koldstore](https://kalamdb.org/koldstore)).
+* [pg_kalam](https://github.com/kalamdb/KalamDB) - PostgreSQL FDW/extension that bridges Postgres to [KalamDB](https://kalamdb.org), a SQL-first realtime state database for AI agents with USER-table isolation and live subscriptions.
 * [OrioleDB](https://www.orioledb.com/) - The cloud-native storage engine for PostgreSQL. OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines.
 * [Citus](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
