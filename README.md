@@ -351,7 +351,8 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
-
+* [Why Supabase RLS is Slow (and How to Fix It)](https://blog.rowistan.com/2026/08/why-supabase-rls-is-slow.html) - In-depth breakdown of PostgreSQL Row-Level Security overhead, query execution planning, and multi-tenant subquery optimization.
+  
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL/)
