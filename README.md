@@ -253,6 +253,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
+* [pgrecon](https://github.com/Muzzammil242/pgrecon) - Offline Oracle-to-PostgreSQL migration assessment and schema conversion; parses PL/SQL with a real grammar, reports incompatibilities, estimates effort.
 * [pgspot](https://github.com/timescale/pgspot) - Spot vulnerabilities in PostgreSQL extension scripts.
 * [pg-spot-operator](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
 * [pgsync](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
