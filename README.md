@@ -69,15 +69,18 @@
 * [pg-backups-to-s3](https://github.com/Saicheg/pg-backups-to-s3) - Docker-first solution on top of pg_dump with support for environment-based configuration for scheduled PostgreSQL backups with optional compression, GPG encryption, webhooks, automatic upload to Amazon S3.
 
 ### GUI
+* [1bench](https://1bench.dev/postgresql) - Native cross-platform GUI with first-class Postgres support alongside Redis, Elasticsearch, ClickHouse, Qdrant, and more (Commercial Software).
 * [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
+* [AI for Database](https://aifordatabase.com) - Chat with your PostgreSQL database in natural language. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. (Commercial Software).
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 * [Bytebase](https://www.bytebase.com) - Database DevSecOps solution for Developer, Security, DBA, and Platform Engineering teams.
 * [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
 * [Count](https://count.co/) - Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
+* [Dekart](https://github.com/dekart-xyz/dekart) - Open-source platform to turn PostGIS queries into shareable interactive maps.
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
-* [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+* [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE with migration, federated SQL, and CDC replication for PostgreSQL, MySQL, files, and S3-compatible storage. (Commercial Software).
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbForge Edge](https://www.devart.com/dbforge/edge/) - All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
@@ -87,10 +90,12 @@
 * [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 * [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
+* [OrcaQ](https://github.com/cin12211/orca-q) - A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 * [PgManage](https://github.com/commandprompt/pgmanage) - A modern multi-platform Postgres-centric database client/administration tool.
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
+* [PgStudio](https://github.com/dev-asterix/PgStudio) - Open-source VS Code / Open VSX extension for PostgreSQL management with SQL notebooks, AI assistant, Easy to use code snippets and Full-fledged DBMS with real-time monitoring dashboard.
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
@@ -104,6 +109,7 @@
 * [temBoard](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 * [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 * [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
+* [TablePro](https://tablepro.app/) - Native macOS PostgreSQL client with explain visualization, ER diagrams, and AI assistant. Free, open-source.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 * [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
 * [WebDB](https://webdb.app) – Efficient Database IDE.
@@ -116,6 +122,7 @@
 * [atlas](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [pgfence](https://pgfence.com) - Lints Postgres SQL migrations for lock modes and risky DDL, with safe expand/contract rewrites. CLI plus LSP. Extractors for Prisma, TypeORM, and Knex.
+* [pgxcli](https://github.com/Balaji01-4D/pgxcli) - Postgres CLI with autocompletion and syntax highlighting written in Go.
 * [pgplan](https://github.com/JacobArthurs/pgplan) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
 * [pgschema](https://www.pgschema.com) - Terraform-style declarative schema migration for Postgres
 * [pg-schema-diff](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
@@ -137,6 +144,7 @@
 
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+* [pgrls](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
@@ -198,6 +206,7 @@
 
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
+* [neond](https://github.com/matisiekpl/neond) - DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a `postgres:latest` replacement for non-critical workloads.
 
 ### Work Queues
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
@@ -345,6 +354,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Operations cheat sheet](https://wiki.postgresql.org/wiki/Operations_cheat_sheet) - Operations cheat sheet from PostgreSQL Wiki.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
+* [PostgreSQL Access Control](https://andersnasell.gumroad.com/l/postgresql-access-control) - The complete mental model: roles, grants, ownership, membership, policies, and default privileges as an integrated system. PDF + video, ~60 min.
 * [PostgreSQL Exercises](https://pgexercises.com/) - Site  to make it easy to learn PostgreSQL by doing exercises.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - Very extensive collection of tutorials on PostgreSQL
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
