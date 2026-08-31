@@ -294,6 +294,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
+* [Syncle](https://syncle.dev) - Web interface for syncing rows between Postgres and MySQL, SQLite, MongoDB or Redis, by backfill, polling, or logical replication.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
