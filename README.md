@@ -81,6 +81,7 @@
 * [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
 * [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
 * [DBConvert Streams](https://streams.dbconvert.com/) - Database IDE with migration, federated SQL, and CDC replication for PostgreSQL, MySQL, files, and S3-compatible storage. (Commercial Software).
+* [DBO Studio](https://dbo-studio.com/) - Open-source, AI-powered database GUI for managing, designing, and querying PostgreSQL, SQLite, and MySQL.
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbForge Edge](https://www.devart.com/dbforge/edge/) - All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
