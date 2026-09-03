@@ -75,6 +75,7 @@
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
 * [Bytebase](https://www.bytebase.com) - Database DevSecOps solution for Developer, Security, DBA, and Platform Engineering teams.
 * [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
+* [cli2ui](https://github.com/MR-TABATA/cli2ui) - Local-only web UI over the psql commands you keep half-remembering: health checks, blocking trees, replication lag, and — before you press a destructive button — the exact SQL it will run and what a TRUNCATE or DROP takes with it.
 * [Count](https://count.co/) - Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).
 * [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
 * [Dekart](https://github.com/dekart-xyz/dekart) - Open-source platform to turn PostGIS queries into shareable interactive maps.
