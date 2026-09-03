@@ -294,6 +294,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
+* [actual-schema-gradle-plugin](https://github.com/YRashid/actual-schema-gradle-plugin) - Gradle plugin for generating a PostgreSQL schema.sql snapshot from Liquibase migrations.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
