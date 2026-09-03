@@ -101,6 +101,7 @@
 * [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
+* [QuelPad](https://quelpad.com) - TypeScript scratchpad and database client with strong PostgreSQL support (incl. Neon); query, transform and chart with typed scripts, or ask in plain English. Cross-platform for macOS and Windows (Freemium).
 * [QueryGlow](https://queryglow.com/) - Self-hosted, web-based database GUI with AI SQL generation, EXPLAIN visualizer, and schema-aware autocomplete (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
 * [Redash](https://github.com/getredash/redash) - Connect to any data source, easily visualize and share your data.
