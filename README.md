@@ -282,6 +282,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg_migrate](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
 * [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
 * [sqitch](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
+* [SchemaSmith](https://github.com/Schema-Smith/SchemaSmith) - state-based schema management for PostgreSQL and other databases; declare the desired state instead of writing migration scripts. (Source-available)
 * [pgmigrate](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 * [pg-differ](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
