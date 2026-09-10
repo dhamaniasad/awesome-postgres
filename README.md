@@ -206,6 +206,7 @@
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 * [ParadeDB](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 * [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/) - An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.
+* [pg_vault_tde](https://github.com/labmiriade/pg_vault_tde) - An extension to encrypt table data at rest with AES-256-GCM on unmodified PostgreSQL, with keys managed by HashiCorp Vault/OpenBao, a PKCS#11 HSM or a local wallet.
 
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
