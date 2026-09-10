@@ -275,6 +275,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
 * [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 * [PostGraphile](https://github.com/graphile/postgraphile) - Instant GraphQL API or GraphQL schema for your PostgreSQL database
+* [Seedfast](https://seedfa.st) - Fills a PostgreSQL database with synthetic test data generated from its live schema, with every foreign key resolved (Commercial Software).
 * [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - A lightweight PostgresSQL `LISTEN`/`NOTIFY` daemon built on top of `node-postgres`.
 * [ZSON](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
