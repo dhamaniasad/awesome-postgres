@@ -84,6 +84,7 @@
 * [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
 * [dbForge Edge](https://www.devart.com/dbforge/edge/) - All-in-one multidatabase solution supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, and a wide range of related cloud services (Commercial Software). 
 * [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
+* [dqex](https://github.com/fj1981/dqex) - Offline-first, AI-native database workbench as a single binary (MySQL/PostgreSQL/Oracle). No JVM/Electron; Web UI + CLI sharing one engine, cross-dialect migration, compare, snapshots, Excel data dictionary, and a confirm-before-write AI SQL assistant.
 * [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 * [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
 * [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
