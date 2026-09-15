@@ -264,6 +264,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgFirstAid](https://github.com/randoneering/pgFirstAid) - Easy-to-deploy, open source PostgreSQL function that provides a prioritized list of actions to improve database stability and performance. Directly inspired by Brent Ozar's FirstResponderKit for SQL Server.
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
 * [pg_insights](https://github.com/lob/pg_insights) - Convenient SQL for monitoring Postgres database health.
+* [pglite-diff](https://github.com/jayblast-spec/pglite-diff) - Runs the same query probes against two SQL setups (e.g. two versions of a migration) on isolated in-memory PGlite instances and reports exactly what differs -- catches migration regressions before they touch a real database.
 * [pgloader](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 * [pgMonitor](https://github.com/CrunchyData/pgmonitor) - Postgres metrics collection and visualization that can be deployed to bare metal, virtual machines, or Kubernetes.
 * [pgpool-II](https://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
