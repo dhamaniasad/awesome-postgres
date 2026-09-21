@@ -294,6 +294,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
+* [PostgreSQL Dump Viewer](https://streams.dbconvert.com/postgresql-dump-viewer) - Opens a plain, gzip or tar pg_dump in the browser by replaying it into PGlite (PostgreSQL 18), to browse tables and run read-only SQL without restoring it to a server. (Commercial Software).
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
