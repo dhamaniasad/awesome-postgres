@@ -367,6 +367,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - A collection of the most common commands used in PostgreSQL
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+* [Skillancy SQL Compiler](https://skillancy.in/tools/sql-compiler) - a free, browser-based PostgreSQL playground with a sample schema and interview-style practice queries; no signup required.
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
 
 ### Blogs
