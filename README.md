@@ -144,6 +144,7 @@
 
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+* [amu-pgvector](https://github.com/sangaraju1988/amu-pgvector) - row-level security schema and client for lineage-gated AI agent memory: blocks cross-department leakage of cached analytical results derived from sensitive columns, built on pgvector.
 * [pgrls](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Monitoring
