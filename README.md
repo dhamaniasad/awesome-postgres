@@ -222,6 +222,7 @@
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
+* [GresTrace](https://grestrace.com) - visualizes Postgres EXPLAIN plans, flags the bottleneck node, and suggests the SQL fix for common patterns (free tier available, paid tier for advanced fixes).
 * [PEV2](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
