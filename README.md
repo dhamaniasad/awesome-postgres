@@ -67,6 +67,7 @@
 * [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.
 * [pgbackup-sidecar](https://github.com/Musab520/pgbackup-sidecar) - `pgbackup-sidecar` is a lightweight Docker sidecar container designed to automate regular backups of a PostgreSQL database using `pg_dump`, `cron`, and bash scripts while also sending output to a webhook.
 * [pg-backups-to-s3](https://github.com/Saicheg/pg-backups-to-s3) - Docker-first solution on top of pg_dump with support for environment-based configuration for scheduled PostgreSQL backups with optional compression, GPG encryption, webhooks, automatic upload to Amazon S3.
+* [ReviveDB](https://revivedb.dev) - scheduled off-platform backups of Supabase projects covering the database and Auth, Storage files and Edge Functions, with each database backup restore-tested in an isolated PostgreSQL instance (Commercial Software).
 
 ### GUI
 * [1bench](https://1bench.dev/postgresql) - Native cross-platform GUI with first-class Postgres support alongside Redis, Elasticsearch, ClickHouse, Qdrant, and more (Commercial Software).
