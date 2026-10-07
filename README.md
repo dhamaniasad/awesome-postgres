@@ -120,6 +120,7 @@
 
 ### CLI
 * [atlas](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
+* [masume](https://github.com/masumedb/masume) - Keyboard-first terminal database client with AI chat and an MCP server.
 * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [pgfence](https://pgfence.com) - Lints Postgres SQL migrations for lock modes and risky DDL, with safe expand/contract rewrites. CLI plus LSP. Extractors for Prisma, TypeORM, and Knex.
 * [pgxcli](https://github.com/Balaji01-4D/pgxcli) - Postgres CLI with autocompletion and syntax highlighting written in Go.
