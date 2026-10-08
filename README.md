@@ -73,6 +73,7 @@
 * [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
 * [AI for Database](https://aifordatabase.com) - Chat with your PostgreSQL database in natural language. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. (Commercial Software).
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
+* [BerryDB](https://github.com/berry-apps/berrydb-desktop) - Open-source native macOS database client written in Swift and AppKit with PostgreSQL and Redis support.
 * [Bytebase](https://www.bytebase.com) - Database DevSecOps solution for Developer, Security, DBA, and Platform Engineering teams.
 * [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
 * [Count](https://count.co/) - Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).
