@@ -60,6 +60,7 @@
 * [pgBackRest](https://pgbackrest.org/)  - Reliable PostgreSQL Backup & Restore.
 * [pgbackweb](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI. 
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
+* [SafeGrd](https://safegrd.dev/postgresql-backup) - Encrypted pg_dump backups to S3-compatible storage under Object Lock, restored on a schedule into a scratch database to test them, with a signed record of each restore test (Commercial Software).
 * [pghoard](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
 * [postgres-backup-oss](https://github.com/isaced/postgres-backup-oss) - A handy Docker container to periodically backup PostgreSQL to Alibaba Cloud Object Storage Service (OSS)
 * [wal-e](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
