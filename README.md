@@ -98,6 +98,7 @@
 * [PgStudio](https://github.com/dev-asterix/PgStudio) - Open-source VS Code / Open VSX extension for PostgreSQL management with SQL notebooks, AI assistant, Easy to use code snippets and Full-fledged DBMS with real-time monitoring dashboard.
 * [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 * [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+* [Pilotbase](https://github.com/icedsg/pilotbase) - Web and desktop database client for PostgreSQL and other SQL, NoSQL and vector databases, with schema migration, backups and a generated REST API.
 * [Postbird](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
