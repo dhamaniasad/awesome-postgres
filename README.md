@@ -134,6 +134,7 @@
 * [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 * [pdot](https://gitlab.com/dmfay/pdot) - Visualize and explore database structures in your shell, from high-context views of the foreign key graph to trigger cascades, role inheritance and permissions, and many more
 * [squix](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
+* [Weavori](https://weavori.com) - PostgreSQL synthetic data CLI that introspects the schema, resolves foreign keys and loads referentially intact rows into the target database. Samples column distributions from pg_stats, enforces cross-column constraints, and reproduces runs byte-identically from a seed. (Commercial Software)
 
 ### Server
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
