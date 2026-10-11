@@ -294,6 +294,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
+* [OLake](https://github.com/datazip-inc/olake) - Open-source PostgreSQL to Apache Iceberg replication using logical replication (CDC), full refresh and incremental sync. Written in Go.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
