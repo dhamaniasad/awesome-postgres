@@ -169,6 +169,7 @@
 * [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 * [StatsMgr](https://codeberg.org/data-bene/statsmgr) - An open-source PostgreSQL extension designed for efficient and organized advanced statistics management.
 * [pgvitals](https://github.com/pgvitals/pgvitals) - collection of 40 read-only diagnostic queries for spotting common performance problems (slow queries, bloat, vacuum lag, lock contention, replication lag, wraparound risk) using only the standard system catalog with no extensions required, plus an optional CLI that aggregates them into a 0-100 health score.
+* [SolidPing](https://github.com/fclairamb/solidping) - self-hostable uptime monitoring with a PostgreSQL check (connection, SSL mode, optional custom query), alerts and status pages. Single Go binary that stores its own data in SQLite or PostgreSQL.
 
 ### Extensions
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions.
