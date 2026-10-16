@@ -209,6 +209,7 @@
 
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
+* [Ekwo OS](https://github.com/Ekwo-ai/ekwo-os) - Open-source double-entry accounting that lives in PostgreSQL: schema and ledger as migrations, RLS on every table, versioned country packs, CLI installer and MCP server for AI agents.
 * [neond](https://github.com/matisiekpl/neond) - DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a `postgres:latest` replacement for non-critical workloads.
 
 ### Work Queues
