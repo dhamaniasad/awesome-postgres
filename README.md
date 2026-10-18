@@ -273,6 +273,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PGXN client](https://github.com/pgxn/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - Tool that extracts and provides metrics for your PostgreSQL database.
 * [PostgREST](https://github.com/PostgREST/postgrest) - Serves a fully RESTful API from any existing PostgreSQL database.
+* [instancez](https://github.com/instancez/instancez) - backend for developers and agents on Postgres, single-binary, runs anywhere.
 * [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 * [PostGraphile](https://github.com/graphile/postgraphile) - Instant GraphQL API or GraphQL schema for your PostgreSQL database
 * [yoke](https://github.com/nanopack/yoke) - PostgreSQL high-availability cluster with auto-failover and automated cluster recovery.
