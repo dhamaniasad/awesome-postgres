@@ -144,6 +144,7 @@
 
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+* [Melange](https://github.com/pthm/melange) - compiles OpenFGA authorization models into plain SQL and PL/pgSQL functions, so relationship-based permission checks run inside Postgres against your existing tables, with no extension or separate service.
 * [pgrls](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Monitoring
