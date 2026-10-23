@@ -294,6 +294,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
+* [Dex](https://github.com/exmergo/dex) - Analytics engineering skills for coding agents: read-only profiling of PostgreSQL and other warehouses, PII flags, verified joins, dbt models as reviewable diffs, and schema-drift checks.
 
 ### Language bindings
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
