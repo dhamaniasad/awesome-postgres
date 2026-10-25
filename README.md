@@ -105,6 +105,7 @@
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
 * [Redash](https://github.com/getredash/redash) - Connect to any data source, easily visualize and share your data.
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
+* [SQLly](https://sqlly.app/) - Cross-platform SQL client with IntelliSense and schema intelligence, supporting PostgreSQL alongside MySQL, MariaDB, SQL Server, SQLite, DuckDB and Redis (Commercial Software).
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [temBoard](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
 * [Teable](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
