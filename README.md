@@ -368,6 +368,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
+* [Full PostgreSQL Course](https://prepare.sh/course/full-postgresql-course) - Video tutorials by prepare.sh from first queries to indexes, EXPLAIN, MVCC/VACUUM, roles, backups and replication. Free to watch and read. The in-browser labs need a free account, a few need a paid plan.
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
