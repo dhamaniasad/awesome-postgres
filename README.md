@@ -296,6 +296,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
 
 ### Language bindings
+* C++: [qbm-pgsql](https://github.com/isndev/qbm-pgsql)
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Clojure: [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
