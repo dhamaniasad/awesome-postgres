@@ -291,6 +291,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Pyrseas](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
 * [planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
+* [PolyVector](https://github.com/am-mar7/polyvector) - In-engine multi-field hybrid search for PostgreSQL combining pgvector HNSW and length-normalized BM25 with local ONNX embeddings.
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 * [diesel-guard](https://github.com/ayarotsky/diesel-guard) - Linter for dangerous Postgres migration patterns in Diesel and SQLx.
