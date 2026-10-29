@@ -136,7 +136,7 @@
 * [squix](https://github.com/eduardofuncao/squix) - SQL command-line client with query management and interactive results.
 
 ### Server
-* [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
+* [AgensGraph](https://github.com/skaiworldwide-oss/agensgraph) - Multi-model graph database based on PostgreSQL, with SQL, openCypher and ISO GQL.
 * [Apache Cloudberry](https://github.com/apache/cloudberry) - And MPP PostgreSQL fork. Open source alternative to Greenplum Database.
 * [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 * [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
