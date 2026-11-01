@@ -145,6 +145,7 @@
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
 * [pgrls](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
+* [Supabase RLS Leak Demo](https://github.com/cekuu35/supabase-rls-leak-demo) - runnable reproduction of a row-level-security data leak and its one-file fix; same test suite red on the roken branch, green on ixed, npm ci && npm test with no Docker or cloud project. Three failure cases: tenant isolation, the service-role path with a client-supplied id, and the SECURITY DEFINER view.
 
 ### Monitoring
 * [check\_pgactivity](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
