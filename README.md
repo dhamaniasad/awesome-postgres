@@ -154,7 +154,7 @@
 * [Instrumental](https://github.com/Instrumental/instrumentald) - Real-time performance monitoring, including [pre-made graphs](https://instrumentalapp.com/docs/instrumentald/postgresql#suggested-graphs) for ease of setup (Commercial Software)
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) - Comprehensive PostgreSQL monitoring module for Zabbix.
 * [myDBA](https://mydba.dev) - PostgreSQL performance monitoring with 75+ automated health checks, cluster-aware index advisor, query analysis, and extension monitoring for TimescaleDB, pgvector, and PostGIS (Commercial Software).
-* [PostgresAI](https://postgres.ai/) - PostgreSQL monitoring with query and wait-event dashboards, alerts, and scheduled health checks with recommendations (Commercial Software).
+* [PostgresAI](https://github.com/postgres-ai/postgresai) - Apache 2.0-licensed PostgreSQL monitoring with query and wait-event dashboards, alerts, and scheduled health checks. PostgresAI Cloud adds commercial analysis, diagnostics, and operational support.
 * [PMM](https://github.com/percona/pmm) - Percona Monitoring and Management (PMM) is a Free and Open Source platform for monitoring and managing PostgreSQL, MySQL, and MongoDB.
 * [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 * [pgmetrics](https://pgmetrics.io/) - pgmetrics is an open-source, zero-dependency, single-binary tool that can collect a lot of information and statistics from a running PostgreSQL server and display it in easy-to-read text format or export it as JSON and CSV for scripting.
