@@ -377,6 +377,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
+* [pg_dump to S3 with restore checks](https://backupdrill.com/guides/pg-dump-to-s3) - tested script that dumps a database, reads the archive back, and uploads it to S3-compatible storage, with cron, systemd, and GitHub Actions schedules and a script that restore-tests the newest dump in a throwaway container.
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
