@@ -132,6 +132,7 @@
 * [pgschema](https://www.pgschema.com) - Terraform-style declarative schema migration for Postgres
 * [pg-schema-diff](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 * [MigrationPilot](https://github.com/mickelsamuel/migrationpilot) - PostgreSQL migration safety: 112 rules, real-parser lock analysis, auto-fix, GitHub Action, and an MCP server that gates the DDL an AI agent writes. Free, MIT.
+* [migsafe](https://github.com/hamarshehmhmd/migsafe) - Scan Postgres migration SQL for lock-heavy / outage-prone patterns (volatile DEFAULT, non-concurrent indexes, ALTER TYPE, FK without NOT VALID, …); CI-friendly risk scoring and rewrite hints.
 * [pgsh](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
