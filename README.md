@@ -339,6 +339,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 * [Neon](https://neon.com) - Serverless Postgres that separates storage and compute. Branching, scale-to-zero, read replicas with no extra storage, instant restore (PITR), managed authentication, and a PostgREST-compatible Data API.
 * [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
+* [Prisma Postgres](https://www.prisma.io/postgres) - Fully managed PostgreSQL built on unikernels and bare metal, with zero cold starts. Free tier includes 1.01 GB storage and 50 databases, no credit card required.
 * [PlanetScale](https://planetscale.com/postgres) - PlanetScale for Postgres provides fully-managed, high availability PostgreSQL database clusters built on modern cloud infrastructure.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
 * [Thalassa Cloud DBaaS](https://thalassa.cloud/products/databases/postgresql/) - Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.
