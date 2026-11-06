@@ -377,6 +377,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg-utils](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
 * [pagila](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 * [SQL Syntax Cheat Sheet](https://github.com/mergisi/sql-syntax-cheat-sheet) - Comprehensive SQL syntax reference covering window functions, CTEs, and PostgreSQL-specific syntax (UPSERT, JSON queries, array operations).
+* [pg_restore guide](https://backupdrill.com/guides/pg-restore) - pg_restore flags, pg_restore vs psql, partial and parallel restores, fixes for common errors (role does not exist, unsupported version in file header, transaction_timeout on older servers), and how to verify a restore.
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) - Blog aggregation service for PostgreSQL.
