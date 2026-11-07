@@ -349,6 +349,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [paradedb/paradedb](https://hub.docker.com/r/paradedb/paradedb/) - ParadeDB is Postgres for Search and Analytics. Based on the official Postgres container with pg_search extension.
 * [pglayers](https://github.com/pglayers/pglayers) - Pre-built PostgreSQL extensions as composable Docker layers. 50+ extensions, ready-to-use combined images (full, Azure-compatible).
 * [postgres](https://hub.docker.com/_/postgres/) -  Official postgres container (from Docker)
+* [ruxwez/postgres](https://github.com/ruxwez/postgres) - The official Postgres container with 80+ tested extensions preinstalled (pgvector, PostGIS, TimescaleDB, pgmq, pg_cron, pg_duckdb…). PostgreSQL 14–18, amd64 and arm64, immutable versioned tags.
 
 ### Kubernetes
 * [Crunchy Operator](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
