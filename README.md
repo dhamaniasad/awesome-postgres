@@ -392,6 +392,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Digoal's PostgreSQL and Technical blog(Chinese Language)](https://github.com/digoal/blog/blob/master/README.md) 
 * [Pigsty blog / PostgreSQL](https://pigsty.io/blog/pg/) - Blog by the author of PIGSTY with insightful articles on PostgreSQL (as well as databases and cloud infrastructure).
 * [BigData Boutique Blog / PostgreSQL](https://bigdataboutique.com/blog/tagged/postgresql) - Blog by the BigData Boutique team, mostly with analytics focus).
+* [Easinvy notes / PostgreSQL](https://easinvy.com/notes/postgresql) - Posts from a multi-tenant retail billing system running on PostgreSQL: money as numeric, the business day across time zones, and tenant scoping in Drizzle.
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
