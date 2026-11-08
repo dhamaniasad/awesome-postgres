@@ -304,6 +304,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Syncle](https://syncle.dev) - Web interface for syncing rows between Postgres and MySQL, SQLite, MongoDB or Redis, by backfill, polling, or logical replication.
 
 ### Language bindings
+* C++: [qbm-pgsql](https://github.com/isndev/qbm-pgsql)
 * Common Lisp: [Postmodern](https://github.com/marijnh/Postmodern)
 * Clojure: [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir: [postgrex](https://github.com/elixir-ecto/postgrex)
