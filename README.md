@@ -109,6 +109,7 @@
 * [Redash](https://github.com/getredash/redash) - Connect to any data source, easily visualize and share your data.
 * [SaturnSQL](https://saturnsql.com) - Browser-based collaborative SQL editor for teams, with scheduled query delivery to Google Sheets and Slack (Commercial Software).
 * [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
+* [SQLly](https://sqlly.app/) - Cross-platform SQL client with IntelliSense and schema intelligence, supporting PostgreSQL alongside MySQL, MariaDB, SQL Server, SQLite, DuckDB and Redis (Commercial Software).
 * [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 * [Sutido](https://sutido.com) - Windows desktop client covering PostgreSQL, MongoDB, SQL Server, Aerospike and ClickHouse in one window, with autocomplete from the live schema, SSH tunneling and server-side query cancellation (Commercial Software).
 * [temBoard](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
