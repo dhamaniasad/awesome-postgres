@@ -251,6 +251,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [GatewayD](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 * [Greenmask](https://github.com/GreenmaskIO/greenmask) - Database anonymization and synthetic data generation tool for MySQL and PostgreSQL.
 * [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
+* [Keploy](https://github.com/keploy/keploy) - Records real PostgreSQL query results at the wire protocol and replays them as mocks in tests, so CI runs without a database.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [migra](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
