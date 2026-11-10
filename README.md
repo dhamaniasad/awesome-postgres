@@ -225,6 +225,7 @@
 * [dbos](https://www.dbos.dev/) - Durable workflows in Typescript and Python
 * [Graphile Worker](https://worker.graphile.org) - A high performance job queue for PostgreSQL, written in Node.js
 * [@andyrmitchell/pg-queue](https://www.npmjs.com/package/@andyrmitchell/pg-queue) - The 'No Maintenance' Postgres Queue for Node.js
+* [Workhorse](https://github.com/stablemates/workhorse) - A durable task queue for PostgreSQL, with an embedded operator dashboard, durable waits, task groups, and concurrency and rate limits for each key. Workers in multiple languages.
 
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
