@@ -342,6 +342,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PlanetScale](https://planetscale.com/postgres) - PlanetScale for Postgres provides fully-managed, high availability PostgreSQL database clusters built on modern cloud infrastructure.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
 * [Thalassa Cloud DBaaS](https://thalassa.cloud/products/databases/postgresql/) - Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.
+* [Zenifra](https://www.zenifra.com/en) - Managed PostgreSQL on servers in Brazil, billed in BRL. Free plan with 1 GB storage (0.3 vCPU, 256 MB RAM, daily backup kept for 3 days), paid plans from R$ 11.90/month with up to 6 instances and automatic failover.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
