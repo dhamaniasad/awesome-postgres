@@ -149,6 +149,7 @@
 
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+* [eslint-plugin-postgresql-security](https://github.com/ofri-peretz/eslint/tree/main/packages/eslint-plugin-postgresql-security) - lint rules for node-postgres (pg) code that catch SQL injection from string-built queries, pool clients that are never released, unsafe search_path and disabled SSL verification.
 * [pgrls](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Monitoring
