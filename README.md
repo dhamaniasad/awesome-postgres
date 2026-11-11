@@ -341,6 +341,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
 * [PlanetScale](https://planetscale.com/postgres) - PlanetScale for Postgres provides fully-managed, high availability PostgreSQL database clusters built on modern cloud infrastructure.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
+* [Scribase](https://scribase.com) - Supabase/Neon-compatible application cloud built for coding agents: Postgres, Auth, Storage, Realtime and Edge Functions per project, copy-on-write branching, a CLI/SDK and an MCP server agents connect to directly. Hobby from $5/month per project, Pro $25/month, Studio $199/month flat (Commercial Software).
 * [Thalassa Cloud DBaaS](https://thalassa.cloud/products/databases/postgresql/) - Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.
 
 ### Docker images
