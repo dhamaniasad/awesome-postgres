@@ -241,7 +241,9 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 * [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
 * [aqo](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
-* [pgassistant](https://github.com/beh74/pgassistant-community) - A PostgreSQL tool for developers to help understand, optimize database with LLM and pgTune integration.  
+* [pgassistant](https://github.com/beh74/pgassistant-community) - A PostgreSQL tool for developers to help understand, optimize database with LLM and pgTune integration.
+* - [Candor Data Platform](https://candorsys.com) - AI-powered data engineering platform for SQL query optimization, ETL automation, data warehouse pipeline development, data validation, and Python execution. (Commercial Software)
+  
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
@@ -342,7 +344,6 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [PlanetScale](https://planetscale.com/postgres) - PlanetScale for Postgres provides fully-managed, high availability PostgreSQL database clusters built on modern cloud infrastructure.
 * [Vela](https://vela.run) - Postgres-based backend-as-a-service built for modern AI apps. Offers instant database branches and clones, production-like test environments, and serverless scaling.
 * [Thalassa Cloud DBaaS](https://thalassa.cloud/products/databases/postgresql/) - Fully managed PostgreSQL database, multi-AZ, automated backups, hosted in the Netherlands.
-* [Candor Data Platform](https://candorsys.com) - AI-powered data engineering platform for automating ETL workflows and data warehouse pipelines with validation and Python execution. (Commercial Software)
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/) - Citus official images with citus extensions. Based on the official Postgres container.
