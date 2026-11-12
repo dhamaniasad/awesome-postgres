@@ -149,6 +149,7 @@
 
 ### Security
 * [Acra](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+* [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) - read-only audit of a Supabase project's Postgres: RLS, policies, grants, SECURITY DEFINER functions and auth settings against 46 rules, with fix SQL for each finding (Commercial Software).
 * [pgrls](https://github.com/pgrls/pgrls) - static analyzer for row-level security policies; 36 rules across security, performance, and hygiene with 10 mechanically auto-fixable; includes a semantic policy-diff command for CI gating.
 
 ### Monitoring
