@@ -365,6 +365,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.
+* [OhSudo SQL Exercises](https://ohsudo.com/sql-exercises/) - Free PostgreSQL exercises that run in the browser on a real PostgreSQL 18 engine: filtering, GROUP BY, joins, subqueries, CTEs, window functions and transactions, with instant checking. No signup.
 * [Operations cheat sheet](https://wiki.postgresql.org/wiki/Operations_cheat_sheet) - Operations cheat sheet from PostgreSQL Wiki.
 * [PG Casts](https://www.pgcasts.com) - Free weekly PostgreSQL screencasts by Hashrocket.
 * [Postgres Guide](http://postgresguide.com/) - Guide designed as an aid for beginners and experienced users to find specific tips and explore tools available within PostgreSQL.
