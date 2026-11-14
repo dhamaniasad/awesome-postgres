@@ -95,6 +95,7 @@
 * [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 * [OrcaQ](https://github.com/cin12211/orca-q) - A modern, open-source database editor for PostgreSQL, MySQL, Redis, and more. Features an AI assistant, ERD visualizer, schema diff, and visual role management.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
+* [pgjumbo](https://pgjumbo.com) - Desktop client for macOS, Windows and Linux that shows what a statement will touch before it runs with AI assistant. (Free, not open source)
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 * [PgManage](https://github.com/commandprompt/pgmanage) - A modern multi-platform Postgres-centric database client/administration tool.
 * [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
