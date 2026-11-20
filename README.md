@@ -221,6 +221,7 @@
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
 * [pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 * [river](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
+* [goncordia](https://github.com/kirimatt/goncordia) - A background job queue for Go that enqueues jobs inside the caller's Postgres transaction (pgx, database/sql, gorm, bun), using SKIP LOCKED.
 * [pgBoss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss.
 * [dbos](https://www.dbos.dev/) - Durable workflows in Typescript and Python
 * [Graphile Worker](https://worker.graphile.org) - A high performance job queue for PostgreSQL, written in Node.js
