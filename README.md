@@ -131,6 +131,7 @@
 * [pgplan](https://github.com/JacobArthurs/pgplan) - compare and analyze PostgreSQL EXPLAIN plans from the CLI
 * [pgschema](https://www.pgschema.com) - Terraform-style declarative schema migration for Postgres
 * [pg-schema-diff](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
+* [pistachio](https://github.com/winebarrel/pistachio) - Declarative schema management with a plan/apply workflow; diffs SQL schema files against the database and generates DDL.
 * [MigrationPilot](https://github.com/mickelsamuel/migrationpilot) - PostgreSQL migration safety: 112 rules, real-parser lock analysis, auto-fix, GitHub Action, and an MCP server that gates the DDL an AI agent writes. Free, MIT.
 * [pgsh](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
