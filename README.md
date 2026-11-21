@@ -216,6 +216,7 @@
 ### Platforms
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
 * [neond](https://github.com/matisiekpl/neond) - DX-focused control plane for Postgres with branching, PITR, and S3 durability. Ships as a single Docker container with a web dashboard; positions itself as a `postgres:latest` replacement for non-critical workloads.
+* [oddk](https://github.com/AndrianBdn/oddk) - Self-hosted control plane that runs PostgreSQL instances in Docker on one Linux host, with encrypted whole-deployment snapshots to S3, health alerts, major-version upgrades and one-command host recovery.
 
 ### Work Queues
 * [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
