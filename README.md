@@ -261,6 +261,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg-safe-migrate](https://github.com/defnotwig/pg-safe-migrate) - Safety-first Node.js migration engine with advisory locks, SHA-256 drift detection, and 10 built-in lint rules for PostgreSQL.
 * [pganalyze](https://pganalyze.com) - PostgreSQL Performance Monitoring (Commercial Software).
 * [pgbadger](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
+* [quellog](https://github.com/Alain-L/quellog) - log analyzer for PostgreSQL, pgBackRest, Patroni and pgBouncer producing synthetic overviews, SQL performance analysis and operational insights.
 * [PgBouncer](http://www.pgbouncer.org/) - Lightweight connection pooler for PostgreSQL.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends.
 * [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
