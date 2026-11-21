@@ -319,7 +319,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * R: [RPostgres](https://github.com/r-dbi/RPostgres), [RPostgreSQL](https://github.com/tomoakin/RPostgreSQL)
 * Ruby: [pg](https://github.com/ged/ruby-pg)
 * Rust: [rust-postgresql](https://github.com/sfackler/rust-postgres), [pgx](https://github.com/tcdi/pgx), [wtx](https://github.com/c410-f3r/wtx)
-* TypeScript: [zapatos](https://github.com/jawj/zapatos)
+* TypeScript: [zapatos](https://github.com/jawj/zapatos), [Reylo](https://github.com/reylosql/reylo)
 * Zig: [pg.zig](https://github.com/karlseguin/pg.zig), [qail-zig](https://github.com/qail-io/qail-zig)
 
 ### PaaS *(PostgreSQL as a Service)*
