@@ -192,6 +192,7 @@
 * [pgmnemo](https://github.com/pgmnemo/pgmnemo) - Memory for AI coding agents as an extension: hybrid HNSW+BM25 recall, write-time provenance gates, and an outcome loop measured against a no-memory control (dataset published in-repo).
 * [pg\_barcode](https://github.com/btouchard/pg_barcode/) - PostgreSQL SVG QRcode & Datamatrix generator.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
+* [pg_query_progress](https://github.com/ken19990709/pg_query_progress) - Live progress bars and percent-done estimates for running queries.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 * [pg\_shard](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
 * [pg\_stat\_monitor](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
