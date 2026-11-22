@@ -229,6 +229,7 @@
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [PEV2](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
+* [Surinch SQL EXPLAIN Visualizer](https://surinch.com/en/tools/sql-explain) - Free client-side PostgreSQL `EXPLAIN` / `EXPLAIN ANALYZE` visualizer and SQL formatter (no database connection required).
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
