@@ -392,6 +392,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [Digoal's PostgreSQL and Technical blog(Chinese Language)](https://github.com/digoal/blog/blob/master/README.md) 
 * [Pigsty blog / PostgreSQL](https://pigsty.io/blog/pg/) - Blog by the author of PIGSTY with insightful articles on PostgreSQL (as well as databases and cloud infrastructure).
 * [BigData Boutique Blog / PostgreSQL](https://bigdataboutique.com/blog/tagged/postgresql) - Blog by the BigData Boutique team, mostly with analytics focus).
+* [Sajish Krishnan’s blog](https://sajish85.github.io/) - Database reliability and failover behaviour, measured. Includes a 300-run study of acknowledged-write loss on Patroni, pg_auto_failover and CloudNativePG promotion paths.
 
 ### Books
 * [PostgreSQL Mistakes and How to Avoid Them](https://www.manning.com/books/postgresql-mistakes-and-how-to-avoid-them)
