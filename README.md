@@ -211,6 +211,7 @@
 * [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 * [ParadeDB](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
+* [pgclone](https://github.com/valehdba/pgclone) - Extension to clone tables, schemas, databases and roles between PostgreSQL hosts directly from SQL, with in-flight data masking, async/parallel workers, and table import from Oracle, SQL Server and MySQL.
 * [PostgreSQL Anonymizer](https://postgresql-anonymizer.readthedocs.io/en/stable/) - An extension to mask or replace personally identifiable information (PII) or commercially sensitive data from a Postgres database, through PG Security Labels.
 
 ### Platforms
