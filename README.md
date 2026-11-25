@@ -245,6 +245,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
+* [Auditstream](https://github.com/auditstream/auditstream) - trigger-based PostgreSQL audit trail engine written in Rust with monthly-partitioned history, pooler-safe actor attribution via SQL comments, and TypeScript SDKs.
 * [bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 * [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others.
