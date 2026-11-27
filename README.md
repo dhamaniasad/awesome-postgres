@@ -229,6 +229,7 @@
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [PEV2](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
+* [pg-explain-hotspot](https://github.com/JangYS0/pg-explain-hotspot) - Zero-dependency MIT CLI and zero-upload [browser visualizer](https://global-utils.com/en/sql-explain-visualizer) for flagging PostgreSQL `EXPLAIN (ANALYZE, FORMAT JSON)` row-estimate mismatches and sequential scan hotspots.
 * [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 * [PgHero](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgMustard](https://www.pgmustard.com/) - A modern user interface
